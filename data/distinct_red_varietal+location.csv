@@ -1,0 +1,1216 @@
+varietal,location,count(*)
+"Cabernet Sauvignon","Napa Valley, California",3250
+Nebbiolo,"Barolo, Piedmont, Italy",1327
+"Rhone Red Blends","Chateauneuf-du-Pape, Rhone, France",1060
+Sangiovese,"Montalcino, Tuscany, Italy",1039
+"Pinot Noir","Willamette Valley, Oregon",1001
+"Bordeaux Red Blends","Napa Valley, California",919
+"Bordeaux Red Blends","St. Emilion, Bordeaux, France",881
+Sangiovese,"Chianti Classico, Chianti, Tuscany, Italy",816
+Tempranillo,"Rioja, Spain",741
+"Pinot Noir","Russian River, Sonoma County, California",718
+Syrah/Shiraz,Australia,642
+Malbec,Argentina,546
+Syrah/Shiraz,"Barossa Valley, Barossa, Australia",530
+"Bordeaux Red Blends","Pauillac, Bordeaux, France",507
+Sangiovese,"Tuscany, Italy",506
+"Pinot Noir","Sonoma Coast, Sonoma County, California",497
+"Cabernet Sauvignon","Columbia Valley, Washington",447
+"Cabernet Sauvignon","Sonoma County, California",422
+"Tuscan Blends","Tuscany, Italy",417
+Merlot,"Napa Valley, California",406
+Nebbiolo,"Barbaresco, Piedmont, Italy",377
+"Bordeaux Red Blends","St. Julien, Bordeaux, France",372
+Malbec,"Mendoza, Argentina",363
+"Bordeaux Red Blends","Margaux, Bordeaux, France",362
+"Bordeaux Red Blends","Pessac-Leognan, Bordeaux, France",356
+Syrah/Shiraz,"McLaren Vale, Australia",354
+"Cabernet Sauvignon","Oakville, Napa Valley, California",349
+Zinfandel,"Sonoma County, California",346
+"Bordeaux Red Blends","Pomerol, Bordeaux, France",334
+Tempranillo,"Ribera del Duero, Spain",314
+"Pinot Noir","Burgundy, France",307
+Gamay,"Beaujolais, Burgundy, France",288
+Merlot,"Columbia Valley, Washington",283
+"Cabernet Sauvignon",Chile,279
+"Pinot Noir","Sonoma County, California",273
+"Pinot Noir","Central Coast, California",270
+"Rhone Red Blends","Cotes du Rhone, Rhone, France",269
+"Pinot Noir","Sta. Rita Hills, Santa Barbara, Central Coast, California",260
+"Bordeaux Red Blends","St. Estephe, Bordeaux, France",251
+"Pinot Noir","Carneros, California",238
+"Bordeaux Red Blends","Tuscany, Italy",232
+"Other Red Blends","Tuscany, Italy",231
+"Other Red Blends",Portugal,228
+"Other Red Blends",Spain,224
+"Cabernet Sauvignon","Rutherford, Napa Valley, California",222
+"Bordeaux Red Blends","Columbia Valley, Washington",216
+Nebbiolo,"Piedmont, Italy",209
+"Pinot Noir","Santa Lucia Highlands, Monterey, Central Coast, California",207
+"Pinot Noir","Gevrey-Chambertin, Cote de Nuits, Cote d'Or, Burgundy, France",195
+"Rhone Red Blends","Gigondas, Rhone, France",195
+Zinfandel,"Napa Valley, California",191
+Syrah/Shiraz,"Central Coast, California",189
+Syrah/Shiraz,"Columbia Valley, Washington",184
+Syrah/Shiraz,"Walla Walla Valley, Columbia Valley, Washington",183
+"Cabernet Sauvignon",Australia,182
+Syrah/Shiraz,"Cote Rotie, Rhone, France",172
+Syrah/Shiraz,"Hermitage, Rhone, France",172
+"Cabernet Sauvignon","St. Helena, Napa Valley, California",170
+"Other Red Blends","Napa Valley, California",169
+"Bordeaux Red Blends","Bolgheri, Tuscany, Italy",165
+"Other Red Blends","Veneto, Italy",164
+"Pinot Noir","Marlborough, New Zealand",164
+Grenache,Spain,157
+"Bordeaux Red Blends","Sonoma County, California",156
+"Cabernet Sauvignon","Howell Mountain, Napa Valley, California",155
+Zinfandel,"Russian River, Sonoma County, California",153
+Tempranillo,Spain,153
+"Bordeaux Red Blends","Oakville, Napa Valley, California",150
+"Rhone Red Blends","Paso Robles, Central Coast, California",149
+Barbera,"Alba, Piedmont, Italy",149
+"Pinot Noir","Santa Maria Valley, Central Coast, California",140
+"Cabernet Sauvignon","Alexander Valley, Sonoma County, California",139
+"Other Red Blends","Priorat, Spain",138
+"Bordeaux Red Blends","Medoc, Bordeaux, France",137
+"Rhone Red Blends","Languedoc-Roussillon, France",137
+"Cabernet Sauvignon","Stags Leap District, Napa Valley, California",135
+"Other Red Blends",Australia,134
+Merlot,"Sonoma County, California",133
+"Cabernet Sauvignon",California,128
+"Pinot Noir","Eola-Amity Hills, Willamette Valley, Oregon",128
+Sangiovese,"Chianti, Tuscany, Italy",126
+"Pinot Noir","Nuits-St-Georges, Cote de Nuits, Cote d'Or, Burgundy, France",126
+Zinfandel,California,118
+Syrah/Shiraz,"Cornas, Rhone, France",118
+"Bordeaux Red Blends","South Africa",115
+"Other Red Blends","Sicily, Italy",115
+Syrah/Shiraz,California,115
+"Bordeaux Red Blends","Bordeaux, France",113
+"Pinot Noir","Santa Cruz Mountains, California",113
+"Cabernet Sauvignon",Argentina,112
+Malbec,"Uco Valley, Mendoza, Argentina",112
+"Pinot Noir","Anderson Valley, Mendocino, California",112
+"Other Red Blends","Columbia Valley, Washington",111
+"Bordeaux Red Blends","Haut Medoc, Bordeaux, France",111
+"Bordeaux Red Blends","Walla Walla Valley, Columbia Valley, Washington",107
+"Other Red Blends","Valpolicella, Veneto, Italy",107
+Syrah/Shiraz,"Napa Valley, California",106
+"Pinot Noir","Yamhill-Carlton District, Willamette Valley, Oregon",106
+"Cabernet Sauvignon","Mendoza, Argentina",103
+"Pinot Noir","Central Otago, New Zealand",101
+"Nero d'Avola","Sicily, Italy",101
+"Rhone Red Blends","Barossa Valley, Barossa, Australia",100
+Syrah/Shiraz,"South Africa",98
+"Pinot Noir",California,98
+Carmenere,Chile,97
+"Cabernet Sauvignon","Spring Mountain District, Napa Valley, California",97
+"Other Red Blends","Barossa Valley, Barossa, Australia",95
+"Petite Sirah","Napa Valley, California",95
+"Cabernet Sauvignon","Calistoga, Napa Valley, California",94
+"Other Red Blends",Italy,92
+"Cabernet Sauvignon","McLaren Vale, Australia",90
+Merlot,"Tuscany, Italy",89
+"Other Red Blends","Paso Robles, Central Coast, California",87
+"Cabernet Sauvignon","Walla Walla Valley, Columbia Valley, Washington",87
+"Pinot Noir","Dundee Hills, Willamette Valley, Oregon",86
+"Bordeaux Red Blends","Mendoza, Argentina",85
+"Other Red Blends",California,85
+"Bordeaux Red Blends",Chile,85
+"Cabernet Sauvignon","South Africa",85
+"Rhone Red Blends","Rhone, France",84
+"Bordeaux Red Blends","Yountville, Napa Valley, California",84
+Barbera,"Asti, Piedmont, Italy",84
+"Other Red Blends","Sonoma County, California",84
+"Other Red Blends","Rioja, Spain",83
+Syrah/Shiraz,"Rhone, France",83
+"Cabernet Sauvignon","Maipo Valley, Chile",81
+"Rhone Red Blends","Central Coast, California",80
+"Bordeaux Red Blends",Argentina,78
+"Rhone Red Blends","Vacqueyras, Rhone, France",76
+"Cabernet Sauvignon","Tuscany, Italy",75
+Syrah/Shiraz,"Clare Valley, Australia",74
+Syrah/Shiraz,"Santa Barbara, Central Coast, California",73
+Syrah/Shiraz,"Russian River, Sonoma County, California",72
+"Rhone Red Blends","McLaren Vale, Australia",71
+"Other Red Blends",Argentina,71
+Grenache,"McLaren Vale, Australia",69
+"Cabernet Sauvignon","Mt. Veeder, Napa Valley, California",69
+"Cabernet Sauvignon","Diamond Mountain District, Napa Valley, California",68
+"Cabernet Sauvignon","Paso Robles, Central Coast, California",67
+Merlot,Chile,67
+"Bordeaux Red Blends","Fronsac, Bordeaux, France",66
+"Pinot Noir","Ribbon Ridge, Willamette Valley, Oregon",65
+Mourvedre,Spain,65
+Dolcetto,"Alba, Piedmont, Italy",65
+"Cabernet Sauvignon","Margaret River, Australia",65
+"Cabernet Sauvignon","Coonawarra, Limestone Coast, Australia",65
+Syrah/Shiraz,Chile,64
+"Other Red Wine","Priorat, Spain",63
+"Pinot Noir","Chambolle-Musigny, Cote de Nuits, Cote d'Or, Burgundy, France",62
+"Pinot Noir","Beaune, Cote de Beaune, Cote d'Or, Burgundy, France",62
+"Other Red Blends","South Africa",62
+Zinfandel,"Dry Creek Valley, Sonoma County, California",62
+"Other Red Blends",Chile,62
+"Cabernet Sauvignon","North Coast, California",62
+"Pinot Noir","Volnay, Cote de Beaune, Cote d'Or, Burgundy, France",61
+Zinfandel,"Central Coast, California",61
+Syrah/Shiraz,"Saint-Joseph, Rhone, France",61
+"Pinot Noir","North Coast, California",60
+Syrah/Shiraz,"Sonoma County, California",60
+"Bordeaux Red Blends","Santa Cruz Mountains, California",58
+"Bordeaux Red Blends","Cotes de Castillon, Bordeaux, France",57
+"Other Red Blends","Languedoc-Roussillon, France",56
+Montepulciano,"Abruzzo, Italy",56
+Zinfandel,"Paso Robles, Central Coast, California",55
+"Pinot Noir","Vosne-Romanee, Cote de Nuits, Cote d'Or, Burgundy, France",55
+Zinfandel,"Lodi, California",55
+Aglianico,Italy,54
+Grenache,"Barossa Valley, Barossa, Australia",53
+"Pinot Noir","Martinborough, New Zealand",52
+Syrah/Shiraz,"Crozes-Hermitage, Rhone, France",52
+"Bordeaux Red Blends","Yakima Valley, Columbia Valley, Washington",52
+"Pinot Noir","Petaluma Gap, Sonoma Coast, Sonoma County, California",51
+Zinfandel,"Sierra Foothills, California",51
+"Pinot Noir","Cote de Nuits, Cote d'Or, Burgundy, France",51
+Tempranillo,"Toro, Spain",51
+"Other Red Wine","Sicily, Italy",50
+Carmenere,"Colchagua Valley, Rapel Valley, Chile",49
+"Other Red Blends","Ribera del Duero, Spain",48
+"Other Red Blends","Central Coast, California",48
+"Cabernet Sauvignon","Yountville, Napa Valley, California",47
+Syrah/Shiraz,"Paso Robles, Central Coast, California",47
+Merlot,"Walla Walla Valley, Columbia Valley, Washington",45
+"Cabernet Sauvignon","Central Coast, California",44
+"Pinot Noir","Santa Barbara, Central Coast, California",44
+Zinfandel,"Amador, Sierra Foothills, California",44
+Merlot,California,44
+"Cabernet Sauvignon","Colchagua Valley, Rapel Valley, Chile",44
+"Pinot Noir","New Zealand",44
+"Pinot Noir","Morey-St-Denis, Cote de Nuits, Cote d'Or, Burgundy, France",44
+Mencia,Spain,43
+"Pinot Noir","Vougeot, Cote de Nuits, Cote d'Or, Burgundy, France",43
+"Other Red Blends","Mendoza, Argentina",43
+"Cabernet Sauvignon","Barossa Valley, Barossa, Australia",43
+"Cabernet Franc","Chinon, Touraine, Loire, France",42
+"Pinot Noir","Yarra Valley, Australia",42
+"Pinot Noir",Oregon,42
+"Pinot Noir","Mt. Harlan, Central Coast, California",40
+"Pinot Noir","Napa Valley, California",40
+Pinotage,"South Africa",40
+Syrah/Shiraz,"Santa Ynez Valley, Santa Barbara, Central Coast, California",38
+Zinfandel,"North Coast, California",38
+"Rhone Red Blends",Australia,37
+"Pinot Noir","Cote de Beaune, Cote d'Or, Burgundy, France",37
+"Other Red Blends","Douro, Portugal",37
+"Pinot Noir","Pommard, Cote de Beaune, Cote d'Or, Burgundy, France",36
+"Pinot Noir","Monterey, Central Coast, California",36
+Syrah/Shiraz,"Sonoma Coast, Sonoma County, California",36
+"Cabernet Sauvignon","Santa Cruz Mountains, California",36
+"Bordeaux Red Blends","Red Mountain, Yakima Valley, Columbia Valley, Washington",36
+Syrah/Shiraz,"Barossa, Australia",35
+"Rhone Red Blends","Cotes du Rhone Villages, Rhone, France",35
+"Cabernet Sauvignon","Knights Valley, Sonoma County, California",34
+"Bordeaux Red Blends","Spring Mountain District, Napa Valley, California",34
+"Pinot Noir","Flagey-Echezeaux, Cote de Nuits, Cote d'Or, Burgundy, France",34
+Syrah/Shiraz,"Yakima Valley, Columbia Valley, Washington",34
+Aglianico,"Campania, Italy",34
+"Cabernet Franc","Napa Valley, California",33
+"Bordeaux Red Blends","Central Coast, California",33
+"Cabernet Sauvignon","Sonoma Valley, Sonoma County, California",33
+Syrah/Shiraz,"Tuscany, Italy",33
+"Other Red Blends","McLaren Vale, Australia",33
+"Other Red Blends","Jumilla, Spain",33
+"Pinot Noir","Green Valley, Russian River Valley, Sonoma County, California",32
+Sangiovese,Italy,32
+"Bordeaux Red Blends","Paso Robles, Central Coast, California",32
+"Pinot Noir","Aloxe-Corton, Cote de Beaune, Cote d'Or, Burgundy, France",32
+Merlot,"Central Coast, California",31
+Merlot,Italy,31
+Nebbiolo,"Alba, Piedmont, Italy",30
+"Touriga Nacional",Portugal,30
+Grenache,"Walla Walla Valley, Columbia Valley, Washington",30
+Syrah/Shiraz,"Coonawarra, Limestone Coast, Australia",30
+"Bordeaux Red Blends","Knights Valley, Sonoma County, California",30
+"Other Red Blends","Sardinia, Italy",30
+Mencia,"Bierzo, Spain",30
+Merlot,"North Coast, California",29
+"Rhone Red Blends",Spain,29
+"Pinot Noir",Australia,29
+Sangiovese,"Montepulciano, Tuscany, Italy",28
+"Other Red Blends","Walla Walla Valley, Columbia Valley, Washington",28
+"Petite Sirah",California,28
+Zinfandel,"Sonoma Valley, Sonoma County, California",28
+Zinfandel,"Howell Mountain, Napa Valley, California",27
+Dolcetto,"Piedmont, Italy",27
+Zinfandel,"Alexander Valley, Sonoma County, California",27
+"Other Red Wine",Spain,27
+"Other Red Wine","Valpolicella, Veneto, Italy",27
+Corvina,"Veneto, Italy",26
+"Bordeaux Red Blends",Australia,26
+Merlot,Australia,26
+Syrah/Shiraz,"Santa Maria Valley, Central Coast, California",26
+"Rhone Red Blends","South Africa",26
+"Bordeaux Red Blends",California,26
+"Other Red Blends","Colchagua Valley, Rapel Valley, Chile",25
+"Pinot Noir","Fort Ross-Seaview, Sonoma Coast, Sonoma County, California",25
+"Cabernet Sauvignon",Spain,25
+Negroamaro,Italy,25
+"Cabernet Sauvignon","Atlas Peak, Napa Valley, California",25
+"Cabernet Sauvignon","Yakima Valley, Columbia Valley, Washington",24
+"Cabernet Franc","Tuscany, Italy",24
+Primitivo,Italy,24
+"Bordeaux Red Blends","Hawkes Bay, New Zealand",24
+"Other Red Wine","Umbria, Italy",24
+Malbec,"Salta, Argentina",23
+Malbec,"Cahors, Southwest, France",23
+Syrah/Shiraz,"Sta. Rita Hills, Santa Barbara, Central Coast, California",23
+Grenache,"Central Coast, California",23
+Mourvedre,"Jumilla, Spain",23
+Syrah/Shiraz,"Hawkes Bay, New Zealand",23
+"Bordeaux Red Blends","Maipo Valley, Chile",23
+Grenache,California,23
+"Cabernet Franc","Sonoma County, California",22
+"Cabernet Sauvignon","Coombsville, Napa Valley, California",22
+"Rhone Red Blends","Lirac, Rhone, France",22
+"Pinot Noir","Edna Valley, Central Coast, California",22
+"Cabernet Sauvignon","Uco Valley, Mendoza, Argentina",22
+"Pinot Noir","Chehalem Mountains, Willamette Valley, Oregon",22
+Zinfandel,"Mendocino, California",22
+"Cabernet Sauvignon","Red Mountain, Yakima Valley, Columbia Valley, Washington",22
+"Pinot Noir","Savigny-les-Beaune, Cote de Beaune, Cote d'Or, Burgundy, France",22
+"Bordeaux Red Blends","Coonawarra, Limestone Coast, Australia",22
+Merlot,"Carneros, California",21
+"Other Red Blends","Coonawarra, Limestone Coast, Australia",21
+"Rhone Red Blends","Cotes du Ventoux, Rhone, France",21
+"Other Red Blends","Piedmont, Italy",21
+Merlot,"South Africa",20
+"Bordeaux Red Blends","Alexander Valley, Sonoma County, California",20
+Barbera,"Piedmont, Italy",20
+Syrah/Shiraz,Spain,20
+"Bordeaux Red Blends","Rutherford, Napa Valley, California",20
+Grenache,"Languedoc-Roussillon, France",20
+"Rhone Red Blends","Rasteau, Rhone, France",20
+"Cabernet Sauvignon",Israel,20
+"Cabernet Sauvignon","Dry Creek Valley, Sonoma County, California",20
+Syrah/Shiraz,"Santa Lucia Highlands, Monterey, Central Coast, California",20
+Syrah/Shiraz,Washington,20
+"Other Red Blends","Umbria, Italy",20
+"Bordeaux Red Blends","North Coast, California",20
+"Petite Sirah","North Coast, California",19
+"Pinot Noir","Casablanca Valley, Chile",19
+Syrah/Shiraz,"Margaret River, Australia",19
+"Pinot Noir",Chile,19
+"Rhone Red Blends","Santa Barbara, Central Coast, California",19
+Sangiovese,"Napa Valley, California",19
+"Other Red Blends","Bolgheri, Tuscany, Italy",19
+Syrah/Shiraz,"Edna Valley, Central Coast, California",19
+"Bordeaux Red Blends","Stellenbosch, South Africa",19
+"Other Red Blends",France,18
+"Rhone Red Blends","Columbia Valley, Washington",18
+Bonarda,Argentina,18
+"Other Red Blends",Israel,18
+"Pinot Noir","South Africa",18
+Syrah/Shiraz,"Colchagua Valley, Rapel Valley, Chile",18
+Syrah/Shiraz,"Santa Cruz Mountains, California",18
+"Nero d'Avola",Italy,17
+"Bordeaux Red Blends","Howell Mountain, Napa Valley, California",17
+Grenache,"Paso Robles, Central Coast, California",17
+Merlot,"Calistoga, Napa Valley, California",17
+"Cabernet Franc","Mendoza, Argentina",17
+"Bordeaux Red Blends","Graves, Bordeaux, France",17
+"Pinot Noir","Arroyo Grande Valley, Central Coast, California",17
+Syrah/Shiraz,"Ballard Canyon, Santa Barbara, Central Coast, California",17
+"Rhone Red Blends","Adelaida District, Paso Robles, Central Coast, California",17
+"Pinot Noir","Mercurey, Cote Chalonnaise, Burgundy, France",17
+"Rhone Red Blends",California,16
+"Rhone Red Blends","Priorat, Spain",16
+"Other Red Blends","Alexander Valley, Sonoma County, California",16
+"Bordeaux Red Blends",Italy,16
+"Other Red Wine","Sardinia, Italy",16
+"Pinot Noir","Tasmania, Australia",16
+"Other Red Blends","Dry Creek Valley, Sonoma County, California",16
+Malbec,"Patagonia, Argentina",16
+Carignan,"Maule Valley, Chile",16
+Zinfandel,"Rockpile, Sonoma County, California",15
+"Pinot Noir","Leyda Valley, San Antonio Valley, Chile",15
+Bonarda,"Mendoza, Argentina",15
+"Pinot Noir","Sonoma Valley, Sonoma County, California",15
+Grenache,"Sardinia, Italy",15
+Sangiovese,"Walla Walla Valley, Columbia Valley, Washington",15
+"Other Red Blends","Uco Valley, Mendoza, Argentina",15
+Gamay,"Burgundy, France",15
+Syrah/Shiraz,"Sierra Foothills, California",15
+Syrah/Shiraz,"Yarra Valley, Australia",15
+"Cabernet Sauvignon","Red Hills, Lake County, North Coast, California",15
+Tempranillo,"Walla Walla Valley, Columbia Valley, Washington",15
+Syrah/Shiraz,"Eden Valley, Barossa, Australia",15
+Mourvedre,"Provence, France",15
+Grenache,"Rioja, Spain",14
+"Other Red Wine",Italy,14
+"Other Red Blends","Minervois, Languedoc-Roussillon, France",14
+"Petite Sirah","Lodi, California",14
+Mourvedre,"Bandol, Provence, France",14
+"Bordeaux Red Blends","Margaret River, Australia",14
+"Other Red Blends","Campania, Italy",14
+Syrah/Shiraz,"Cotes du Rhone, Rhone, France",13
+"Pinot Noir","Patagonia, Argentina",13
+"Cabernet Sauvignon","Clare Valley, Australia",13
+Syrah/Shiraz,Argentina,13
+Aglianico,"Basilicata, Italy",13
+Merlot,"Howell Mountain, Napa Valley, California",13
+Grenache,"Chateauneuf-du-Pape, Rhone, France",13
+"Bordeaux Red Blends","Colchagua Valley, Rapel Valley, Chile",13
+"Cabernet Franc","Colchagua Valley, Rapel Valley, Chile",13
+"Pinot Noir","Marsannay, Cote de Nuits, Cote d'Or, Burgundy, France",13
+"Bordeaux Red Blends",Israel,12
+"Cabernet Sauvignon","Oak Knoll District, Napa Valley, California",12
+"Cabernet Sauvignon","Lodi, California",12
+Syrah/Shiraz,"Rias Baixas, Spain",12
+"Rhone Red Blends","Cote Rotie, Rhone, France",12
+"Petite Sirah","Howell Mountain, Napa Valley, California",12
+Syrah/Shiraz,"North Coast, California",12
+"Rhone Red Blends","Napa Valley, California",12
+"Rhone Red Blends","Costieres de Nimes, Rhone, France",12
+"Cabernet Sauvignon","Mendocino, California",12
+"Cabernet Sauvignon","Horse Heaven Hills, Columbia Valley, Washington",12
+"Petite Sirah","Central Coast, California",12
+"Bordeaux Red Blends","Veneto, Italy",12
+Merlot,"McLaren Vale, Australia",11
+"Bordeaux Red Blends","Cotes de Francs, Bordeaux, France",11
+"Pinot Noir","Rogue Valley, Oregon",11
+"Rhone Red Blends","Minervois, Languedoc-Roussillon, France",11
+"Bordeaux Red Blends","Trentino-Alto Adige, Italy",11
+Syrah/Shiraz,"Mendocino, California",11
+"Cabernet Franc","Santa Ynez Valley, Santa Barbara, Central Coast, California",11
+"Other Red Blends","Bierzo, Spain",11
+"Cabernet Sauvignon","Moon Mountain District, Sonoma Valley, Sonoma County, California",11
+Malbec,"Napa Valley, California",11
+Nebbiolo,"Roero, Piedmont, Italy",11
+Malbec,Chile,11
+Syrah/Shiraz,"Carneros, California",11
+"Pinot Noir",Argentina,11
+"Rhone Red Blends","Corbieres, Languedoc-Roussillon, France",11
+"Petite Sirah","Mendocino, California",11
+Grenache,"Santa Barbara, Central Coast, California",11
+"Bordeaux Red Blends","Moulis, Bordeaux, France",11
+"Rhone Red Blends","Santa Ynez Valley, Santa Barbara, Central Coast, California",11
+"Petite Sirah","Paso Robles, Central Coast, California",11
+Merlot,"Spring Mountain District, Napa Valley, California",11
+"Cabernet Sauvignon","Aconcagua Valley, Chile",10
+Syrah/Shiraz,"Hunter Valley, Australia",10
+"Cabernet Sauvignon","Santa Ynez Valley, Santa Barbara, Central Coast, California",10
+Malbec,"Colchagua Valley, Rapel Valley, Chile",10
+"Pinot Noir","Mendoza, Argentina",10
+"Cabernet Franc","Columbia Valley, Washington",10
+Malbec,France,10
+"Rhone Red Blends","Willow Creek District, Paso Robles, Central Coast, California",10
+"Other Red Blends","Alentejo, Portugal",10
+Merlot,"New York",10
+"Cabernet Sauvignon","Carneros, California",10
+"Rhone Red Blends","Walla Walla Valley, Columbia Valley, Washington",10
+"Pinot Noir","Mendocino, California",10
+Sangiovese,"Sonoma County, California",10
+Grenache,"Sta. Rita Hills, Santa Barbara, Central Coast, California",9
+"Bordeaux Red Blends","Aconcagua Valley, Chile",9
+Syrah/Shiraz,"Sonoma Valley, Sonoma County, California",9
+"Petite Sirah","Russian River, Sonoma County, California",9
+"Other Red Wine",Greece,9
+"Bordeaux Red Blends","Uco Valley, Mendoza, Argentina",9
+"Rhone Red Blends","Edna Valley, Central Coast, California",9
+"Other Red Blends",Greece,9
+Grenache,Australia,9
+"Cabernet Franc","Spring Mountain District, Napa Valley, California",9
+Syrah/Shiraz,"Calistoga, Napa Valley, California",9
+"Cabernet Franc","South Africa",9
+"Rhone Red Blends","Russian River, Sonoma County, California",9
+Lagrein,"Trentino-Alto Adige, Italy",9
+"Cabernet Sauvignon","Barossa, Australia",9
+Merlot,"Yountville, Napa Valley, California",9
+"Cabernet Franc",Argentina,9
+"Other Red Blends","North Coast, California",9
+"Other Red Blends","Maipo Valley, Chile",9
+"Cabernet Sauvignon","Sonoma Mountain, Sonoma Valley, Sonoma County, California",9
+Merlot,Argentina,9
+"Other Red Blends","Lodi, California",9
+Carmenere,"Maipo Valley, Chile",9
+"Bordeaux Red Blends","St. Helena, Napa Valley, California",9
+"Cabernet Sauvignon","Priorat, Spain",9
+"Other Red Wine","Ribera del Duero, Spain",9
+"Pinot Noir","San Benito, Central Coast, California",8
+"Rhone Red Blends","La Clape, Languedoc-Roussillon, France",8
+Merlot,Israel,8
+"Pinot Noir","McMinnville, Willamette Valley, Oregon",8
+"Cabernet Sauvignon","Russian River, Sonoma County, California",8
+Merlot,"Pomerol, Bordeaux, France",8
+"Other Red Blends","Chalk Hill, Sonoma County, California",8
+Grenache,"Navarra, Spain",8
+Dolcetto,"Dogliani, Piedmont, Italy",8
+"Other Red Blends","Santa Ynez Valley, Santa Barbara, Central Coast, California",8
+"Pinot Noir","Fixin, Cote de Nuits, Cote d'Or, Burgundy, France",8
+"Other Red Blends","Sonoma Valley, Sonoma County, California",8
+Carignan,"Sardinia, Italy",8
+"Pinot Noir","Friuli-Venezia Giulia, Italy",8
+Merlot,"Sonoma Valley, Sonoma County, California",8
+Aglianico,"Puglia, Italy",8
+"Pinot Noir","Chorey-les-Beaune, Cote de Beaune, Cote d'Or, Burgundy, France",8
+"Other Red Wine","Naoussa, Greece",8
+"Cabernet Franc","New York",8
+Syrah/Shiraz,"Petaluma Gap, Sonoma Coast, Sonoma County, California",8
+"Pinot Noir","Yorkville Highlands, Mendocino, California",8
+"Other Red Wine",Portugal,8
+"Other Red Blends","Southwest, France",8
+"Petite Sirah","Sonoma County, California",8
+"Other Red Blends","Stellenbosch, South Africa",8
+Syrah/Shiraz,"Monterey, Central Coast, California",8
+Sangiovese,California,7
+"Rhone Red Blends",France,7
+Merlot,"New Zealand",7
+Zinfandel,"Moon Mountain District, Sonoma Valley, Sonoma County, California",7
+"Other Red Wine","Piedmont, Italy",7
+Zinfandel,"St. Helena, Napa Valley, California",7
+Merlot,"Yakima Valley, Columbia Valley, Washington",7
+Carignan,"Languedoc-Roussillon, France",7
+"Other Red Blends","Navarra, Spain",7
+"Pinot Noir","Trentino-Alto Adige, Italy",7
+Syrah/Shiraz,Italy,7
+Zinfandel,"Atlas Peak, Napa Valley, California",7
+"Cabernet Sauvignon","Happy Canyon, Santa Barbara, Central Coast, California",7
+Syrah/Shiraz,"Red Mountain, Yakima Valley, Columbia Valley, Washington",7
+"Tuscan Blends","Carmignano, Tuscany, Italy",7
+Merlot,"St. Emilion, Bordeaux, France",7
+Zinfandel,"San Francisco Bay, Central Coast, California",7
+"Pinot Noir","Aconcagua Valley, Chile",7
+"Other Red Blends","Mendocino, California",7
+Merlot,"Rutherford, Napa Valley, California",7
+Barbera,"Sierra Foothills, California",7
+"Cabernet Sauvignon","Yarra Valley, Australia",7
+"Cabernet Sauvignon",Washington,7
+Grenache,"Santa Ynez Valley, Santa Barbara, Central Coast, California",7
+"Other Red Wine","Bierzo, Spain",7
+Mourvedre,California,7
+Syrah/Shiraz,"Minervois La Liviniere, Languedoc-Roussillon, France",7
+"Pinot Noir","Sancerre, Loire, France",7
+"Other Red Blends","Provence, France",6
+"Rhone Red Blends","Sonoma County, California",6
+"Pinot Noir","Limari Valley, Chile",6
+Mencia,"Valdeorras, Spain",6
+Sangiovese,"Scansano, Tuscany, Italy",6
+"Cabernet Sauvignon","Lake County, North Coast, California",6
+"Other Red Wine","Calabria, Italy",6
+Merlot,"Russian River, Sonoma County, California",6
+Syrah/Shiraz,"Knights Valley, Sonoma County, California",6
+"Pinot Noir","Mendocino Ridge, Mendocino, California",6
+"Bordeaux Red Blends","Lalande de Pomerol, Bordeaux, France",6
+Tempranillo,"La Mancha, Spain",6
+"Petit Verdot",Spain,6
+Negroamaro,"Puglia, Italy",6
+Carmenere,"Aconcagua Valley, Chile",6
+Syrah/Shiraz,"Bennett Valley, Sonoma Valley, Sonoma County, California",6
+Merlot,"Bordeaux, France",6
+"Other Red Blends","Barossa, Australia",6
+Merlot,"Rogue Valley, Oregon",6
+"Pinot Noir","San Antonio Valley, Chile",6
+Cinsault,Chile,6
+Tempranillo,Argentina,6
+"Bordeaux Red Blends","Mt. Veeder, Napa Valley, California",6
+"Other Red Blends","Patagonia, Argentina",6
+Syrah/Shiraz,"Maipo Valley, Chile",6
+Syrah/Shiraz,"Lodi, California",6
+Merlot,"Friuli-Venezia Giulia, Italy",5
+Merlot,Washington,5
+"Pinot Noir","Chassagne-Montrachet, Cote de Beaune, Cote d'Or, Burgundy, France",5
+"Bordeaux Red Blends","Stags Leap District, Napa Valley, California",5
+Merlot,"Fronsac, Bordeaux, France",5
+Nebbiolo,Italy,5
+"Other Red Blends","Friuli-Venezia Giulia, Italy",5
+Syrah/Shiraz,"Uco Valley, Mendoza, Argentina",5
+"Other Red Wine","Napa Valley, California",5
+Primitivo,"Puglia, Italy",5
+"Rhone Red Blends","Montsant, Spain",5
+"Bordeaux Red Blends",Washington,5
+"Pinot Noir","Canterbury, New Zealand",5
+"Other Red Wine","Nemea, Greece",5
+"Other Red Blends","Amador, Sierra Foothills, California",5
+"Pinot Noir","Santenay, Cote de Beaune, Cote d'Or, Burgundy, France",5
+Tempranillo,"Umpqua Valley, Oregon",5
+"Other Red Blends","Yarra Valley, Australia",5
+Syrah/Shiraz,Oregon,5
+"Other Red Blends","Macedonia (FYROM)",5
+Tannat,Uruguay,5
+"Tuscan Blends",Italy,5
+Merlot,"Paso Robles, Central Coast, California",5
+"Rhone Red Blends","Jumilla, Spain",5
+"Other Red Blends","Maule Valley, Chile",5
+"Other Red Blends","Trentino-Alto Adige, Italy",5
+"Bordeaux Red Blends","McLaren Vale, Australia",5
+"Rhone Red Blends","Vinsobres, Rhone, France",5
+"Bordeaux Red Blends","Adelaida District, Paso Robles, Central Coast, California",5
+Barbera,Washington,5
+"Rhone Red Blends","Minervois La Liviniere, Languedoc-Roussillon, France",5
+"Other Red Wine","Rioja, Spain",5
+Syrah/Shiraz,"Casablanca Valley, Chile",5
+Grenache,"Gigondas, Rhone, France",5
+"Rhone Red Blends","Barossa, Australia",5
+Grenache,"Priorat, Spain",5
+"Other Red Blends","Swartland, South Africa",5
+"Other Red Blends","Montsant, Spain",5
+"Rhone Red Blends","Tuscany, Italy",5
+"Pinot Noir","Hawkes Bay, New Zealand",5
+Syrah/Shiraz,"Rockpile, Sonoma County, California",5
+Barbera,"Sonoma County, California",4
+Syrah/Shiraz,"Limari Valley, Chile",4
+"Other Red Blends","Monterey, Central Coast, California",4
+"Pinot Noir","Marin County, North Coast, California",4
+"Cabernet Sauvignon","Chiles Valley, Napa Valley, California",4
+"Petite Sirah","Lake County, North Coast, California",4
+"Pinot Noir","Maranges, Cote de Beaune, Cote d'Or, Burgundy, France",4
+"Other Red Blends","Calabria, Italy",4
+"Rhone Red Blends","El Dorado, Sierra Foothills, California",4
+"Bordeaux Red Blends","Horse Heaven Hills, Columbia Valley, Washington",4
+"Other Red Blends","Chinon, Touraine, Loire, France",4
+"Other Red Blends","Yakima Valley, Columbia Valley, Washington",4
+Grenache,"Jumilla, Spain",4
+Zinfandel,"Fiddletown, Sierra Foothills, California",4
+Merlot,"Colchagua Valley, Rapel Valley, Chile",4
+Tempranillo,"Paso Robles, Central Coast, California",4
+Merlot,"Mt. Veeder, Napa Valley, California",4
+"Bordeaux Red Blends","New Zealand",4
+Merlot,"Barossa Valley, Barossa, Australia",4
+Syrah/Shiraz,"Cachapoal Valley, Rapel Valley, Chile",4
+"Bordeaux Red Blends","Oak Knoll District, Napa Valley, California",4
+Zinfandel,"Mt. Veeder, Napa Valley, California",4
+Merlot,"Oak Knoll District, Napa Valley, California",4
+"Pinot Noir","Monthelie, Cote de Beaune, Cote d'Or, Burgundy, France",4
+"Rhone Red Blends","Clare Valley, Australia",4
+"Other Red Blends","New York",4
+"Bordeaux Red Blends","Diamond Mountain District, Napa Valley, California",4
+"Other Red Blends","Rapel Valley, Chile",4
+"Petite Sirah","Dry Creek Valley, Sonoma County, California",4
+"Other Red Blends","Knights Valley, Sonoma County, California",4
+Cinsault,"Lodi, California",4
+"Petite Sirah","St. Helena, Napa Valley, California",4
+"Pinot Noir","Alsace, France",4
+Syrah/Shiraz,Israel,4
+Syrah/Shiraz,"Sicily, Italy",4
+Bonarda,"Napa Valley, California",4
+Barbera,"Tuscany, Italy",4
+Merlot,"Cachapoal Valley, Rapel Valley, Chile",4
+"Other Red Blends","Sierra Foothills, California",4
+"Petit Verdot","Maipo Valley, Chile",4
+"Pinot Noir","Chalone, Monterey, Central Coast, California",4
+Nebbiolo,"Lombardy, Italy",4
+"Pinot Noir","Mornington Peninsula, Australia",4
+Syrah/Shiraz,"Adelaide, Australia",4
+Merlot,Spain,4
+Syrah/Shiraz,"Mt. Veeder, Napa Valley, California",4
+"Bordeaux Red Blends",Virginia,4
+"Other Red Blends","Ballard Canyon, Santa Barbara, Central Coast, California",4
+"Rhone Red Blends","Amador, Sierra Foothills, California",4
+"Pinot Noir","Umpqua Valley, Oregon",4
+"Cabernet Franc","Saumur, Loire, France",4
+"Rhone Red Blends","North Coast, California",4
+Merlot,"Lazio, Italy",4
+"Cabernet Sauvignon","Franschhoek Valley, South Africa",4
+Carmenere,"Cachapoal Valley, Rapel Valley, Chile",4
+"Pinot Noir","Paso Robles, Central Coast, California",4
+"Rhone Red Blends","Bandol, Provence, France",4
+Merlot,"Wahluke Slope, Columbia Valley, Washington",4
+"Bordeaux Red Blends","Ballard Canyon, Santa Barbara, Central Coast, California",4
+"Cabernet Franc","Howell Mountain, Napa Valley, California",4
+Carmenere,"Rapel Valley, Chile",4
+Tempranillo,"Barossa Valley, Barossa, Australia",4
+"Rhone Red Blends","Cotes du Luberon, Rhone, France",4
+Grenache,"Edna Valley, Central Coast, California",4
+"Pinot Noir","Givry, Cote Chalonnaise, Burgundy, France",4
+Barbera,"Amador, Sierra Foothills, California",4
+"Other Red Blends","Howell Mountain, Napa Valley, California",4
+"Bordeaux Red Blends","Carneros, California",4
+"Other Red Blends","Willow Creek District, Paso Robles, Central Coast, California",4
+"Other Red Blends","Willamette Valley, Oregon",3
+"Cabernet Sauvignon","New Zealand",3
+"Rhone Red Blends","Vin de France, France",3
+"Bordeaux Red Blends","Languedoc-Roussillon, France",3
+"Other Red Blends","Carneros, California",3
+Syrah/Shiraz,"Yorkville Highlands, Mendocino, California",3
+"Other Red Wine","Puglia, Italy",3
+"Cabernet Sauvignon","Piedmont, Italy",3
+Mourvedre,"Barossa Valley, Barossa, Australia",3
+"Pinot Noir","Alexander Valley, Sonoma County, California",3
+"Bordeaux Red Blends","Lake County, North Coast, California",3
+Grenache,"Dry Creek Valley, Sonoma County, California",3
+"Cabernet Sauvignon","Willamette Valley, Oregon",3
+Mourvedre,"McLaren Vale, Australia",3
+"Other Red Blends",Washington,3
+"Bordeaux Red Blends","Carmel Valley, Monterey, Central Coast, California",3
+Grenache,"Santa Maria Valley, Central Coast, California",3
+Grenache,"Russian River, Sonoma County, California",3
+"Cabernet Sauvignon","Livermore Valley, Central Coast, California",3
+Bonarda,"Uco Valley, Mendoza, Argentina",3
+Grenache,"Snipes Mountain, Yakima Valley, Columbia Valley, Washington",3
+"Cabernet Sauvignon","Rapel Valley, Chile",3
+"Other Red Blends","Russian River, Sonoma County, California",3
+"Bordeaux Red Blends","Barossa Valley, Barossa, Australia",3
+"Cabernet Franc","Loire, France",3
+"Cabernet Franc","Sierra Foothills, California",3
+"Other Red Blends","Oak Knoll District, Napa Valley, California",3
+"Bordeaux Red Blends",Spain,3
+Grenache,"Amador, Sierra Foothills, California",3
+"Other Red Wine","Paso Robles, Central Coast, California",3
+"Other Red Blends","Horse Heaven Hills, Columbia Valley, Washington",3
+"Other Red Blends","San Francisco Bay, Central Coast, California",3
+"Cabernet Franc",Virginia,3
+"Pinot Noir","Columbia Valley, Washington",3
+"Bordeaux Red Blends","New York",3
+"Cabernet Franc",Australia,3
+"Bordeaux Red Blends","Maule Valley, Chile",3
+Zinfandel,"Sonoma Coast, Sonoma County, California",3
+Malbec,"Maule Valley, Chile",3
+"Cabernet Franc","Bourgueil, Touraine, Loire, France",3
+Tempranillo,"Wahluke Slope, Columbia Valley, Washington",3
+"Cabernet Sauvignon","Cachapoal Valley, Rapel Valley, Chile",3
+"Other Red Blends","Chianti Classico, Chianti, Tuscany, Italy",3
+"Rhone Red Blends","Yakima Valley, Columbia Valley, Washington",3
+Barbera,California,3
+"Cabernet Sauvignon","New York",3
+Grenache,"Clare Valley, Australia",3
+"Bordeaux Red Blends","Sicily, Italy",3
+Zinfandel,"Lake County, North Coast, California",3
+"Other Red Blends","Bandol, Provence, France",3
+"Pinot Noir","Cote d'Or, Burgundy, France",3
+"Pinot Noir","Arroyo Seco, Monterey, Central Coast, California",3
+"Bordeaux Red Blends","Paicines, Central Coast, California",3
+"Other Red Wine",Turkey,3
+"Cabernet Sauvignon","Umbria, Italy",3
+"Other Red Blends","Livermore Valley, Central Coast, California",3
+"Pinot Noir","Eagle Peak, Mendocino, California",3
+"Cabernet Sauvignon","Sierra Foothills, California",3
+Nebbiolo,Virginia,3
+"Pinot Noir","Adelaide, Australia",3
+Blaufrankisch,"Burgenland, Austria",3
+"Rhone Red Blends","Mendocino, California",3
+"Bordeaux Red Blends","Sonoma Mountain, Sonoma Valley, Sonoma County, California",3
+"Other Red Blends","La Mancha, Spain",3
+"Cabernet Sauvignon","Stellenbosch, South Africa",3
+Grenache,"Yakima Valley, Columbia Valley, Washington",3
+"Other Red Blends","Santa Barbara, Central Coast, California",3
+"Cabernet Franc","Lodi, California",3
+"Rhone Red Blends","Crozes-Hermitage, Rhone, France",3
+"Cabernet Franc","Finger Lakes, New York",3
+"Petit Verdot","Yakima Valley, Columbia Valley, Washington",3
+"Cabernet Franc","Knights Valley, Sonoma County, California",3
+"Other Red Blends","Chianti, Tuscany, Italy",3
+"Cabernet Franc","Long Island, New York",3
+Grenache,"Montsant, Spain",3
+Merlot,"Trentino-Alto Adige, Italy",3
+"Other Red Blends","Hawkes Bay, New Zealand",3
+Syrah/Shiraz,"Minervois, Languedoc-Roussillon, France",3
+Sangiovese,"Piedmont, Italy",3
+Syrah/Shiraz,"Languedoc-Roussillon, France",3
+"Cabernet Franc","Maipo Valley, Chile",3
+"Rhone Red Blends","San Benito, Central Coast, California",3
+"Bordeaux Red Blends","Franschhoek Valley, South Africa",3
+Merlot,"Dry Creek Valley, Sonoma County, California",3
+Syrah/Shiraz,,3
+"Other Red Blends","Lake County, North Coast, California",3
+"Petite Sirah","Amador, Sierra Foothills, California",3
+"Bordeaux Red Blends","Constantia, South Africa",3
+Malbec,"Alexander Valley, Sonoma County, California",3
+"Other Red Blends","San Bernabe, Monterey, Central Coast, California",3
+Merlot,"Mendocino, California",3
+Carmenere,"Maule Valley, Chile",3
+"Pinot Noir","Rheingau, Germany",3
+Mourvedre,Australia,3
+"Rhone Red Blends","Monterey, Central Coast, California",3
+"Petite Sirah","Clarksburg, Yolo County, California",3
+"Pinot Noir","Pfalz, Germany",3
+Grenache,"Terra Alta, Spain",3
+"Other Red Blends","Santa Margarita Ranch, Paso Robles, Central Coast, California",3
+Carignan,"Mendocino, California",3
+Syrah/Shiraz,"Stellenbosch, South Africa",3
+Zinfandel,"McLaren Vale, Australia",2
+Syrah/Shiraz,"Spring Mountain District, Napa Valley, California",2
+"Cabernet Sauvignon","Curico Valley, Chile",2
+"Bordeaux Red Blends","Dry Creek Valley, Sonoma County, California",2
+Merlot,"Maipo Valley, Chile",2
+"Petite Sirah","Santa Barbara, Central Coast, California",2
+"Petite Sirah","El Dorado, Sierra Foothills, California",2
+"Other Red Blends","Limoux, Languedoc-Roussillon, France",2
+"Bordeaux Red Blends",China,2
+"Touriga Nacional","Douro, Portugal",2
+"Other Red Blends","Red Mountain, Yakima Valley, Columbia Valley, Washington",2
+"Other Red Wine","Maule Valley, Chile",2
+"Other Red Blends","Corsica, France",2
+Barbera,"High Valley, Lake County, North Coast, California",2
+Barbera,"Napa Valley, California",2
+Sangiovese,"Friuli-Venezia Giulia, Italy",2
+"Bordeaux Red Blends","Marlborough, New Zealand",2
+"Other Red Blends","Clare Valley, Australia",2
+"Bordeaux Red Blends","Friuli-Venezia Giulia, Italy",2
+"Cabernet Sauvignon","Languedoc-Roussillon, France",2
+"Rhone Red Blends","Hermitage, Rhone, France",2
+"Tuscan Blends","Scansano, Tuscany, Italy",2
+Syrah/Shiraz,"Eola-Amity Hills, Willamette Valley, Oregon",2
+"Pinot Noir","Alto Adige, Trentino-Alto Adige, Italy",2
+Nebbiolo,"Santa Ynez Valley, Santa Barbara, Central Coast, California",2
+Nebbiolo,"Neive, Piedmont, Italy",2
+Malbec,"Wahluke Slope, Columbia Valley, Washington",2
+"Bordeaux Red Blends","Santa Barbara, Central Coast, California",2
+Zinfandel,"High Valley, Lake County, North Coast, California",2
+"Pinot Noir","Santa Clara Valley, San Francisco Bay, Central Coast, California",2
+Grenache,"Sonoma County, California",2
+"Rhone Red Blends",Washington,2
+Blaufrankisch,"Columbia Valley, Washington",2
+Merlot,"Languedoc-Roussillon, France",2
+Zinfandel,Australia,2
+"Cabernet Franc","Walla Walla Valley, Columbia Valley, Washington",2
+Barbera,"Barossa Valley, Barossa, Australia",2
+Primitivo,California,2
+"Other Red Blends",Lebanon,2
+"Other Red Blends","Cahors, Southwest, France",2
+Syrah/Shiraz,"Elqui Valley, Chile",2
+"Other Red Blends","Terra Alta, Spain",2
+Syrah/Shiraz,"Costieres de Nimes, Rhone, France",2
+Syrah/Shiraz,"La Mancha, Spain",2
+Zinfandel,"Shenandoah Valley, Sierra Foothills, California",2
+Malbec,"High Valley, Lake County, North Coast, California",2
+"Bordeaux Red Blends","Livermore Valley, Central Coast, California",2
+Carignan,"Minervois La Liviniere, Languedoc-Roussillon, France",2
+Mourvedre,"Santa Barbara, Central Coast, California",2
+"Tuscan Blends","Marche, Italy",2
+Pinotage,"Stellenbosch, South Africa",2
+Sangiovese,,2
+Gamay,"Santa Barbara, Central Coast, California",2
+"Pinot Noir","Uco Valley, Mendoza, Argentina",2
+Carignan,Israel,2
+"Cabernet Franc",France,2
+Carignan,Chile,2
+"Other Red Blends","Dunnigan Hills, Yolo County, California",2
+"Bordeaux Red Blends","Chalk Hill, Sonoma County, California",2
+"Pinot Noir","Colchagua Valley, Rapel Valley, Chile",2
+"Other Red Blends","Sonoma Coast, Sonoma County, California",2
+"Other Red Wine","Canary Islands, Spain",2
+Syrah/Shiraz,"El Dorado, Sierra Foothills, California",2
+Zinfandel,"Templeton Gap District, Paso Robles, Central Coast, California",2
+"Rhone Red Blends","Sonoma Valley, Sonoma County, California",2
+"Other Red Blends","Jura, France",2
+"Bordeaux Red Blends","Yarra Valley, Australia",2
+"Cabernet Franc","Yakima Valley, Columbia Valley, Washington",2
+Merlot,"Horse Heaven Hills, Columbia Valley, Washington",2
+Sangiovese,"Sierra Foothills, California",2
+"Cabernet Sauvignon",Italy,2
+Mourvedre,"Napa Valley, California",2
+"Other Red Wine","Veneto, Italy",2
+"Rhone Red Blends","Sierra Foothills, California",2
+Grenache,"Cotes du Rhone, Rhone, France",2
+Tempranillo,Portugal,2
+"Other Red Blends","Rutherford, Napa Valley, California",2
+"Tuscan Blends","Chianti, Tuscany, Italy",2
+Malbec,"Columbia Valley, Washington",2
+"Rhone Red Blends","York Mountain, Central Coast, California",2
+"Other Red Wine","Campania, Italy",2
+Malbec,"Mt. Veeder, Napa Valley, California",2
+"Rhone Red Blends","Bennett Valley, Sonoma Valley, Sonoma County, California",2
+"Cabernet Sauvignon","Veneto, Italy",2
+Sangiovese,"Trentino-Alto Adige, Italy",2
+"Cabernet Franc","El Dorado, Sierra Foothills, California",2
+Mourvedre,"Paso Robles, Central Coast, California",2
+Malbec,California,2
+"Petit Verdot","Mendoza, Argentina",2
+Syrah/Shiraz,"Red Hills, Lake County, North Coast, California",2
+"Other Red Blends","Other Peloponnese, Greece",2
+"Petit Verdot","Lodi, California",2
+"Other Red Blends","Clarksburg, Yolo County, California",2
+"Cabernet Franc","North Coast, California",2
+"Cabernet Sauvignon","Finger Lakes, New York",2
+"Other Red Wine","Swartland, South Africa",2
+Malbec,"Cachapoal Valley, Rapel Valley, Chile",2
+"Pinot Noir","Piedmont, Italy",2
+Blaufrankisch,Austria,2
+"Cabernet Sauvignon","Sicily, Italy",2
+"Pinot Noir","Coombsville, Napa Valley, California",2
+"Rhone Red Blends","Moon Mountain District, Sonoma Valley, Sonoma County, California",2
+"Petite Sirah","Stags Leap District, Napa Valley, California",2
+Syrah/Shiraz,France,2
+"Other Red Blends",,2
+Sangiovese,"Columbia Valley, Washington",2
+Merlot,"Coonawarra, Limestone Coast, Australia",2
+Primitivo,"Lodi, California",2
+"Rhone Red Blends","Provence, France",2
+"Other Red Blends","Cotes du Rhone, Rhone, France",2
+"Other Red Blends","Loire, France",2
+"Cabernet Sauvignon","El Dorado, Sierra Foothills, California",2
+"Cabernet Franc","Uco Valley, Mendoza, Argentina",2
+"Tuscan Blends","Montepulciano, Tuscany, Italy",2
+"Rhone Red Blends","Santa Maria Valley, Central Coast, California",2
+Primitivo,"Amador, Sierra Foothills, California",2
+Primitivo,"Napa Valley, California",2
+"Rhone Red Blends","Coteaux du Languedoc, Languedoc-Roussillon, France",2
+Syrah/Shiraz,"Padthaway, Limestone Coast, Australia",2
+Syrah/Shiraz,"Arroyo Grande Valley, Central Coast, California",2
+Tempranillo,"Douro, Portugal",2
+"Other Red Blends","Cachapoal Valley, Rapel Valley, Chile",2
+Sangiovese,"Carmignano, Tuscany, Italy",2
+"Other Red Wine","Tuscany, Italy",2
+Grenache,France,2
+Merlot,"Sicily, Italy",2
+"Other Red Blends","Coteaux du Languedoc, Languedoc-Roussillon, France",2
+"Petite Sirah","Monterey, Central Coast, California",2
+Syrah/Shiraz,"Dunnigan Hills, Yolo County, California",2
+Tannat,Other,2
+Zinfandel,"Rutherford, Napa Valley, California",2
+Syrah/Shiraz,"Paarl, South Africa",2
+"Pinot Noir","Barossa Valley, Barossa, Australia",2
+"Other Red Blends","San Antonio Valley, Chile",2
+Zinfandel,"Mendocino Ridge, Mendocino, California",2
+"Other Red Wine","Mt. Veeder, Napa Valley, California",2
+Syrah/Shiraz,Portugal,2
+"Rhone Red Blends","Santa Cruz Mountains, California",2
+"Pinot Noir","Sonoma Mountain, Sonoma Valley, Sonoma County, California",2
+"Pinot Noir","Spring Mountain District, Napa Valley, California",2
+Merlot,"Bolgheri, Tuscany, Italy",2
+Merlot,"Knights Valley, Sonoma County, California",2
+"Cabernet Sauvignon","Adelaida District, Paso Robles, Central Coast, California",2
+"Bordeaux Red Blends","Atlas Peak, Napa Valley, California",2
+Grenache,"El Dorado, Sierra Foothills, California",2
+Malbec,"Yakima Valley, Columbia Valley, Washington",2
+Blaufrankisch,"Tuscany, Italy",1
+Blaufrankisch,"Napa Valley, California",1
+Sangiovese,Australia,1
+"Tuscan Blends",,1
+Barbera,Argentina,1
+Grenache,"Minervois La Liviniere, Languedoc-Roussillon, France",1
+"Cabernet Franc","Ontario, Canada",1
+Syrah/Shiraz,"Chateauneuf-du-Pape, Rhone, France",1
+Merlot,"Veneto, Italy",1
+"Other Red Blends","Marche, Italy",1
+Tempranillo,California,1
+Grenache,"Barossa, Australia",1
+"Bordeaux Red Blends","Barossa, Australia",1
+"Petit Verdot","Uco Valley, Mendoza, Argentina",1
+"Tuscan Blends","Umbria, Italy",1
+"Other Red Wine","Santa Barbara, Central Coast, California",1
+Zweigelt,"New York",1
+Zinfandel,"Oakville, Napa Valley, California",1
+Grenache,"Chalone, Monterey, Central Coast, California",1
+"Other Red Blends","Limari Valley, Chile",1
+Grenache,"Shenandoah Valley, Sierra Foothills, California",1
+"Other Red Wine","Friuli-Venezia Giulia, Italy",1
+Syrah/Shiraz,"Mt. Harlan, Central Coast, California",1
+"Pinot Noir","Lodi, California",1
+Malbec,"Aconcagua Valley, Chile",1
+Mourvedre,"Columbia Valley, Washington",1
+Merlot,"Moon Mountain District, Sonoma Valley, Sonoma County, California",1
+Syrah/Shiraz,"Anderson Valley, Mendocino, California",1
+"Petite Sirah","Alexander Valley, Sonoma County, California",1
+"Cabernet Sauvignon","Yorkville Highlands, Mendocino, California",1
+Merlot,"Franschhoek Valley, South Africa",1
+"Pinot Noir","Clarksburg, Yolo County, California",1
+"Cabernet Sauvignon","Carmel Valley, Monterey, Central Coast, California",1
+Aglianico,"Paso Robles, Central Coast, California",1
+"Other Red Blends",Oregon,1
+Grenache,"Mt. Veeder, Napa Valley, California",1
+Carmenere,"Elqui Valley, Chile",1
+Malbec,"Columbia Gorge, Washington",1
+"Pinot Noir","Cienega Valley, Central Coast, California",1
+"Cabernet Franc","Coombsville, Napa Valley, California",1
+Primitivo,"Wahluke Slope, Columbia Valley, Washington",1
+Dolcetto,"Clare Valley, Australia",1
+Syrah/Shiraz,"Shenandoah Valley, Sierra Foothills, California",1
+"Other Red Blends",Uruguay,1
+"Pinot Noir","Finger Lakes, New York",1
+"Cabernet Franc","Dry Creek Valley, Sonoma County, California",1
+"Cabernet Franc","New Zealand",1
+Zinfandel,"New York",1
+Blaufrankisch,"St. Emilion, Bordeaux, France",1
+"Other Red Wine","Columbia Valley, Washington",1
+"Cabernet Sauvignon","Friuli-Venezia Giulia, Italy",1
+"Petite Sirah",Australia,1
+Montepulciano,"Marche, Italy",1
+Barbera,"Languedoc-Roussillon, France",1
+"Cabernet Franc",Israel,1
+"Cabernet Sauvignon","Maule Valley, Chile",1
+Primitivo,"Friuli-Venezia Giulia, Italy",1
+"Petite Sirah","Columbia Valley, Washington",1
+"Cabernet Franc","Hawkes Bay, New Zealand",1
+Syrah/Shiraz,"Marlborough, New Zealand",1
+Carignan,"North Coast, California",1
+Cinsault,"North Coast, California",1
+Syrah/Shiraz,"Franschhoek Valley, South Africa",1
+Merlot,"St. Helena, Napa Valley, California",1
+"Other Red Wine",Austria,1
+"Other Red Blends","Aconcagua Valley, Chile",1
+Barbera,"Lodi, California",1
+Gamay,"Eola-Amity Hills, Willamette Valley, Oregon",1
+"Rhone Red Blends","Livermore Valley, Central Coast, California",1
+Tannat,"Lodi, California",1
+"Other Red Blends","Moon Mountain District, Sonoma Valley, Sonoma County, California",1
+Merlot,"Lodi, California",1
+Tempranillo,"Priorat, Spain",1
+Carignan,"Alexander Valley, Sonoma County, California",1
+Barbera,France,1
+"Pinot Noir","Cachapoal Valley, Rapel Valley, Chile",1
+Grenache,"La Mancha, Spain",1
+"Cabernet Franc","Stellenbosch, South Africa",1
+Grenache,"Sonoma Valley, Sonoma County, California",1
+Tempranillo,"Dao, Portugal",1
+Syrah/Shiraz,"Santa Clara Valley, San Francisco Bay, Central Coast, California",1
+"Other Red Wine","Loire, France",1
+Syrah/Shiraz,"New Zealand",1
+Merlot,"El Dorado, Sierra Foothills, California",1
+Tempranillo,"Santa Ynez Valley, Santa Barbara, Central Coast, California",1
+"Pinot Noir","Nelson, New Zealand",1
+Malbec,"Red Hills, Lake County, North Coast, California",1
+Syrah/Shiraz,"Mendocino Ridge, Mendocino, California",1
+"Pinot Noir","Pouilly-Fuisse, Maconnais, Burgundy, France",1
+"Cabernet Franc","Maule Valley, Chile",1
+"Nero d'Avola",Australia,1
+"Cabernet Franc","Oakville, Napa Valley, California",1
+Barbera,"Mendocino, California",1
+Mourvedre,"South Africa",1
+"Other Red Blends","Margaret River, Australia",1
+Sangiovese,"North Coast, California",1
+Blaufrankisch,"Clare Valley, Australia",1
+"Bordeaux Red Blends",Other,1
+Bonarda,"Emilia, Emilia-Romagna, Italy",1
+"Pinot Meunier","Carneros, California",1
+"Petit Verdot",Australia,1
+Merlot,"Mendoza, Argentina",1
+Merlot,"Santa Cruz Mountains, California",1
+"Other Red Blends","Chateauneuf-du-Pape, Rhone, France",1
+Grenache,"San Francisco Bay, Central Coast, California",1
+"Bordeaux Red Blends","Santa Ynez Valley, Santa Barbara, Central Coast, California",1
+Nebbiolo,"Santa Barbara, Central Coast, California",1
+Grenache,"Cariñena, Spain",1
+"Petite Sirah","Santa Ynez Valley, Santa Barbara, Central Coast, California",1
+"Other Red Blends",Other,1
+Sangiovese,"Paso Robles, Central Coast, California",1
+"Cabernet Sauvignon","Willow Creek District, Paso Robles, Central Coast, California",1
+Syrah/Shiraz,"Yountville, Napa Valley, California",1
+Sangiovese,"Wahluke Slope, Columbia Valley, Washington",1
+"Other Red Wine","Coteaux du Languedoc, Languedoc-Roussillon, France",1
+"Petit Verdot","Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+"Other Red Blends","Templeton Gap District, Paso Robles, Central Coast, California",1
+"Petite Sirah","Livermore Valley, Central Coast, California",1
+"Pinot Noir","Potter Valley, Mendocino, California",1
+Malbec,"La Rioja, Argentina",1
+"Pinot Noir","Maule Valley, Chile",1
+Merlot,"Other Peloponnese, Greece",1
+Grenache,"Swartland, South Africa",1
+Syrah/Shiraz,"Limestone Coast, Australia",1
+Nebbiolo,"Santa Maria Valley, Central Coast, California",1
+Grenache,"Santa Cruz Mountains, California",1
+"Other Red Wine","Lazio, Italy",1
+Barbera,"Paso Robles, Central Coast, California",1
+Merlot,"Santa Margarita Ranch, Paso Robles, Central Coast, California",1
+"Cabernet Franc","Languedoc-Roussillon, France",1
+"Other Red Wine","Lodi, California",1
+"Petite Sirah","High Valley, Lake County, North Coast, California",1
+"Other Red Wine","Douro, Portugal",1
+"Cabernet Sauvignon","Wahluke Slope, Columbia Valley, Washington",1
+Tannat,"Mendoza, Argentina",1
+Merlot,"Santa Clara Valley, San Francisco Bay, Central Coast, California",1
+Mourvedre,"Sonoma County, California",1
+"Other Red Wine",California,1
+Merlot,"Marlborough, New Zealand",1
+"Pinot Noir",,1
+Gamay,California,1
+"Bordeaux Red Blends","Clare Valley, Australia",1
+Mourvedre,"Languedoc-Roussillon, France",1
+Zweigelt,Austria,1
+"Petite Sirah","Spring Mountain District, Napa Valley, California",1
+Merlot,"Oakville, Napa Valley, California",1
+"Cabernet Sauvignon","Chalk Hill, Sonoma County, California",1
+Merlot,"Chalk Hill, Sonoma County, California",1
+Malbec,"Elqui Valley, Chile",1
+"Pinot Noir","High Valley, Lake County, North Coast, California",1
+Barbera,"Gigondas, Rhone, France",1
+"Cabernet Sauvignon","Monterey, Central Coast, California",1
+Zinfandel,"Red Hills, Lake County, North Coast, California",1
+"Cabernet Franc","Central Coast, California",1
+Merlot,"Arroyo Seco, Monterey, Central Coast, California",1
+Zinfandel,"Calistoga, Napa Valley, California",1
+Grenache,"Rutherford, Napa Valley, California",1
+"Other Red Blends","Fiddletown, Sierra Foothills, California",1
+Merlot,"Santa Barbara, Central Coast, California",1
+"Other Red Wine","Montsant, Spain",1
+"Other Red Blends",Slovenia,1
+Gamay,"Ribbon Ridge, Willamette Valley, Oregon",1
+Mourvedre,"Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+Nebbiolo,"Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+"Rhone Red Blends","Snipes Mountain, Yakima Valley, Columbia Valley, Washington",1
+Merlot,"Patagonia, Argentina",1
+"Cabernet Sauvignon","Other Peloponnese, Greece",1
+Merlot,"Stellenbosch, South Africa",1
+"Petite Sirah","Wahluke Slope, Columbia Valley, Washington",1
+"Pinot Noir","Umbria, Italy",1
+Valdiguie,"Monterey, Central Coast, California",1
+"Pinot Noir","Atlas Peak, Napa Valley, California",1
+"Bordeaux Red Blends","Paarl, South Africa",1
+Mourvedre,"Santa Ynez Valley, Santa Barbara, Central Coast, California",1
+Barbera,"El Dorado, Sierra Foothills, California",1
+Carignan,"Maipo Valley, Chile",1
+"Other Red Blends","Santa Cruz Mountains, California",1
+Mourvedre,"San Francisco Bay, Central Coast, California",1
+Mourvedre,"Red Hills, Lake County, North Coast, California",1
+Nebbiolo,"Paso Robles, Central Coast, California",1
+"Other Red Wine","Jura, France",1
+"Cabernet Sauvignon","Hawkes Bay, New Zealand",1
+"Bordeaux Red Blends","Curico Valley, Chile",1
+"Cabernet Franc","Umpqua Valley, Oregon",1
+"Cabernet Franc",California,1
+"Pinot Meunier","New York",1
+"Bordeaux Red Blends","Hunter Valley, Australia",1
+"Other Red Wine","Walla Walla Valley, Columbia Valley, Washington",1
+"Other Red Blends","Eden Valley, Barossa, Australia",1
+"Rhone Red Blends","Piedmont, Italy",1
+Malbec,"Cafayate Valley, Salta, Argentina",1
+Sangiovese,"Santa Ynez Valley, Santa Barbara, Central Coast, California",1
+Syrah/Shiraz,"Willamette Valley, Oregon",1
+Zinfandel,"El Dorado, Sierra Foothills, California",1
+"Other Red Blends","High Valley, Lake County, North Coast, California",1
+Malbec,"Walla Walla Valley, Columbia Valley, Washington",1
+"Other Red Wine","South Africa",1
+"Pinot Noir","Adelaida District, Paso Robles, Central Coast, California",1
+"Rhone Red Blends","Stellenbosch, South Africa",1
+"Rhone Red Blends","Fountaingrove District, Sonoma County, California",1
+Mourvedre,"Russian River, Sonoma County, California",1
+Syrah/Shiraz,"Chalk Hill, Sonoma County, California",1
+"Other Red Blends",Virginia,1
+"Pinot Noir","Pernand-Vergelesses, Cote de Beaune, Cote d'Or, Burgundy, France",1
+Merlot,"Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+Blaufrankisch,"Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+"Other Red Wine",Chile,1
+Merlot,"Navarra, Spain",1
+"Petite Sirah","Sierra Foothills, California",1
+Tannat,"Russian River, Sonoma County, California",1
+Syrah/Shiraz,"Amador, Sierra Foothills, California",1
+"Petite Sirah","Calistoga, Napa Valley, California",1
+Sangiovese,"Shenandoah Valley, Sierra Foothills, California",1
+"Cabernet Sauvignon","Fountaingrove District, Sonoma County, California",1
+Mourvedre,"Clare Valley, Australia",1
+"Other Red Blends","Mendocino Ridge, Mendocino, California",1
+"Cabernet Franc","Rattlesnake Hills, Yakima Valley, Columbia Valley, Washington",1
+Merlot,"Cotes de Castillon, Bordeaux, France",1
+"Other Red Wine","Languedoc-Roussillon, France",1
+"Other Red Blends","Cotes du Ventoux, Rhone, France",1
+Gamay,"Hawkes Bay, New Zealand",1
+"Pinot Noir","Beaujolais, Burgundy, France",1
+"Other Red Blends","Yamhill-Carlton District, Willamette Valley, Oregon",1
+"Other Red Blends","Bordeaux, France",1
+"Other Red Blends","New Zealand",1
+Merlot,"Willamette Valley, Oregon",1
+Zinfandel,"Columbia Valley, Washington",1
+"Other Red Wine","Maipo Valley, Chile",1
+"Other Red Wine","Alba, Piedmont, Italy",1
+"Other Red Blends",Austria,1
+"Bordeaux Red Blends","Ribera del Duero, Spain",1
+Merlot,"Hawkes Bay, New Zealand",1
+Syrah/Shiraz,"Jumilla, Spain",1
+"Rhone Red Blends","Saint-Chinian, Languedoc-Roussillon, France",1
+"Cabernet Sauvignon","Trentino-Alto Adige, Italy",1
+Grenache,"Rhone, France",1
+Tempranillo,"Dunnigan Hills, Yolo County, California",1
+"Cabernet Franc","Bolgheri, Tuscany, Italy",1
+Merlot,"Alexander Valley, Sonoma County, California",1
+Pinotage,"Swartland, South Africa",1
+"Pinot Noir","Franschhoek Valley, South Africa",1
+"Bordeaux Red Blends","Chiles Valley, Napa Valley, California",1
+Syrah/Shiraz,"Lazio, Italy",1
+"Rhone Red Blends","Santa Clara Valley, San Francisco Bay, Central Coast, California",1
+"Pinot Noir","Wairarapa, New Zealand",1
+"Other Red Wine","Crete, Greece",1
+Syrah/Shiraz,"Wahluke Slope, Columbia Valley, Washington",1
+"Cabernet Sauvignon","Penedes, Spain",1
+"Tuscan Blends","Bolgheri, Tuscany, Italy",1
+"Other Red Wine","Rias Baixas, Spain",1
+"Rhone Red Blends","Rogue Valley, Oregon",1
+Grenache,"Napa Valley, California",1
+Grenache,"Monterey, Central Coast, California",1
+Sangiovese,"Alexander Valley, Sonoma County, California",1
+"Other Red Blends","Montalcino, Tuscany, Italy",1
+Lagrein,"Alto Adige, Trentino-Alto Adige, Italy",1
+Lambrusco,"Emilia-Romagna, Italy",1
+"Pinot Noir",Uruguay,1
+"Other Red Blends","Burgenland, Austria",1
+"Other Red Wine","Valdeorras, Spain",1
+Malbec,"Rockpile, Sonoma County, California",1
+Syrah/Shiraz,"Los Olivos District, Santa Barbara, Central Coast, California",1
+"Pinot Meunier","Willamette Valley, Oregon",1
+"Other Red Blends","Spring Mountain District, Napa Valley, California",1
+"Other Red Blends","Barolo, Piedmont, Italy",1
+Tempranillo,"Rueda, Spain",1
+Nebbiolo,"Central Coast, California",1
+"Cabernet Sauvignon","St. Emilion, Bordeaux, France",1
+"Cabernet Sauvignon","Pauillac, Bordeaux, France",1
+"Pinot Noir","Languedoc-Roussillon, France",1
+"Cabernet Franc",Chile,1
+Tempranillo,Australia,1
+Malbec,Washington,1
+Tempranillo,"Navarra, Spain",1
+"Rhone Red Blends","Horse Heaven Hills, Columbia Valley, Washington",1
+Tannat,"Paso Robles, Central Coast, California",1
+"Other Red Wine","Minervois La Liviniere, Languedoc-Roussillon, France",1
+"Petite Sirah","Rogue Valley, Oregon",1
+"Petite Sirah","Red Hills, Lake County, North Coast, California",1
+"Petit Verdot","Tuscany, Italy",1
+Grenache,"Red Hills, Lake County, North Coast, California",1
+"Other Red Blends","Adelaida District, Paso Robles, Central Coast, California",1
+"Cabernet Sauvignon","York Mountain, Central Coast, California",1
+"Bordeaux Red Blends","Sonoma Valley, Sonoma County, California",1
+Syrah/Shiraz,"San Antonio Valley, Chile",1
+Carmenere,"Horse Heaven Hills, Columbia Valley, Washington",1
+Grenache,"Cotes du Rhone Villages, Rhone, France",1
+"Other Red Wine","Alentejo, Portugal",1
+"Tuscan Blends","Chianti Classico, Chianti, Tuscany, Italy",1
+"Bordeaux Red Blends","Listrac, Bordeaux, France",1
+"Bordeaux Red Blends","Long Island, New York",1
+"Other Red Blends","Adelaide, Australia",1
+"Rhone Red Blends","Ballard Canyon, Santa Barbara, Central Coast, California",1
+"Other Red Blends","Neusiedlersee, Austria",1
+"Bordeaux Red Blends","Happy Canyon, Santa Barbara, Central Coast, California",1
+Zinfandel,"Santa Margarita Ranch, Paso Robles, Central Coast, California",1
+"Cabernet Sauvignon","Santa Margarita Ranch, Paso Robles, Central Coast, California",1
+"Bordeaux Red Blends","Calistoga, Napa Valley, California",1
+"Cabernet Sauvignon","Rockpile, Sonoma County, California",1
+"Pinot Noir","Puligny-Montrachet, Cote de Beaune, Cote d'Or, Burgundy, France",1
+"Bordeaux Red Blends","Cotes de Bourg, Bordeaux, France",1
+Merlot,"Coombsville, Napa Valley, California",1
+"Other Red Blends","Rheingau, Germany",1
+Blaufrankisch,"New Zealand",1
+Merlot,Oregon,1
+"Pinot Noir","Loire, France",1
+"Bordeaux Red Blends","Burgundy, France",1
+Zinfandel,"Barossa Valley, Barossa, Australia",1
+"Cabernet Franc",Canada,1
+Tempranillo,"Central Coast, California",1
+Merlot,"Cotes de Francs, Bordeaux, France",1
+Grenache,"Carneros, California",1
+"Pinot Noir",Italy,1
+Malbec,"Paso Robles, Central Coast, California",1
+Barbera,"Los Olivos District, Santa Barbara, Central Coast, California",1
+Malbec,"Chalk Hill, Sonoma County, California",1
+"Cabernet Franc","Hudson River Region, New York",1
+Nebbiolo,"Serraluna d'Alba, Piedmont, Italy",1
+Grenache,"Somontano, Spain",1
+"Rhone Red Blends",Chile,1
+Gamay,"Willamette Valley, Oregon",1
+"Bordeaux Red Blends","Coombsville, Napa Valley, California",1
+Grenache,"Red Mountain, Yakima Valley, Columbia Valley, Washington",1
+Syrah/Shiraz,"McDowell Valley, Mendocino, California",1
+Merlot,"Lalande de Pomerol, Bordeaux, France",1
+"Touriga Nacional","Dao, Portugal",1
+Tempranillo,"Edna Valley, Central Coast, California",1
+"Petite Sirah","Suisun Valley, North Coast, California",1
+"Other Red Blends","St. Helena, Napa Valley, California",1
+"Rhone Red Blends","Cotes de Provence, Provence, France",1
+Tempranillo,"Lodi, California",1
+"Cabernet Franc","Sonoma Valley, Sonoma County, California",1
+"Other Red Blends","Happy Canyon, Santa Barbara, Central Coast, California",1
+"Other Red Wine","Alto Adige, Trentino-Alto Adige, Italy",1
+"Cabernet Franc","St. Helena, Napa Valley, California",1
+"Other Red Wine","Finger Lakes, New York",1
+Valdiguie,"Napa Valley, California",1
+"Cabernet Sauvignon","Molise, Italy",1
+Primitivo,"Dry Creek Valley, Sonoma County, California",1
+Sangiovese,"Puglia, Italy",1

@@ -1,0 +1,1 @@
+SELECT substring_index(`location`,', ',-1) as region1, if (`location`!='', (LENGTH(`location`) - LENGTH(REPLACE(`location`,",","")) + 1), 0) as num_loc_elements, `location` FROM vin.winecom_filtered order by `region1`

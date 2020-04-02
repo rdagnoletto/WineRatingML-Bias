@@ -1,0 +1,1 @@
+Select if (`location`!='', (LENGTH(`location`) - LENGTH(REPLACE(`location`,",","")) + 1), 0) as num_loc_elements,count(*) FROM vin.winecom_filtered group by `num_loc_elements` order by count(*)

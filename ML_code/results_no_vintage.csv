@@ -1,0 +1,865 @@
+name,vintage,type,price,score,prediction,difference
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2001,brunello,209.97,97,95.29795,1.70205
+Frescobaldi Castelgiocondo Brunello di Montalcino Riserva,2004,brunello,93.97,94,94.19586,-0.19586
+Altesino Brunello di Montalcino,2004,brunello,49.99,92,93.77802,-1.77802
+Argiano Brunello di Montalcino,2004,brunello,69.97,96,93.96785,2.03215
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2004,brunello,119.97,96,94.44289,1.55711
+Tenute Silvio Nardi Brunello di Montalcino,2004,brunello,74.99,92,94.01553,-2.01553
+Banfi Brunello di Montalcino,2004,brunello,69.97,93,93.96785,-0.96785
+Casanova di Neri Brunello di Montalcino Cerretalto,2004,brunello,249.00,98,95.66876,2.33124
+Uccelliera Brunello di Montalcino,2004,brunello,109.99,96,94.34807,1.65193
+Fuligni Brunello di Montalcino,2004,brunello,79.99,96,94.06304,1.93696
+Casanova di Neri Brunello di Montalcino Tenuta Nuova (scuffed label),2005,brunello,99.97,93,94.25287,-1.25287
+Vitanza Brunello di Montalcino,2004,brunello,62.99,94,93.90153,0.09847
+Fuligni Brunello di Montalcino,2005,brunello,78.99,92,94.05354,-2.05354
+Valdicava Brunello Riserva Madonna del Piano (scuffed label),2001,brunello,659.00,100,99.56409,0.43591
+Antinori Pian Delle Vigne Brunello Di Montalcino,2005,brunello,72.99,90,93.99654,-3.99654
+Valdicava Brunello di Montalcino,2004,brunello,129.97,95,94.53789,0.46211
+Valdicava Brunello di Montalcino,2006,brunello,129.97,97,94.53789,2.46211
+Capanna Brunello di Montalcino,2006,brunello,44.97,95,93.73032,1.26968
+Casanova di Neri Brunello di Montalcino White Label,2006,brunello,49.99,92,93.77802,-1.77802
+Casanova di Neri Brunello di Montalcino Tenuta Nuova (scuffed label),2006,brunello,149.97,100,94.72791,5.27209
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2006,brunello,69.99,96,93.96803,2.03197
+Poggio Antico Brunello di Montalcino,2006,brunello,71.99,95,93.98704,1.01296
+Poggio Antico Brunello di Montalcino Altero,2006,brunello,68.99,95,93.95853,1.04147
+Canalicchio di Sopra Brunello di Montalcino,2006,brunello,44.97,90,93.73032,-3.73032
+BenMarco Malbec,2009,malbec,19.99,92,91.77303,0.22697
+Banfi Brunello di Montalcino,2006,brunello,67.99,95,93.94904,1.05096
+La Poderina Brunello di Montalcino,2006,brunello,53.99,95,93.81602,1.18398
+Fattoria dei Barbi Brunello di Montalcino,2005,brunello,41.97,90,93.70183,-3.70183
+Argiano Brunello di Montalcino,2006,brunello,57.99,92,93.85403,-1.85403
+Col d'Orcia Brunello di Montalcino,2004,brunello,49.99,91,93.77802,-2.77802
+Frescobaldi Castelgiocondo Brunello di Montalcino,2006,brunello,59.99,95,93.87303,1.12697
+Col d'Orcia Brunello di Montalcino,2006,brunello,58.99,94,93.86353,0.13647
+Luce Della Vite Brunello di Montalcino,2006,brunello,99.00,100,94.24365,5.75635
+Fuligni Brunello di Montalcino,2006,brunello,54.97,96,93.82533,2.17467
+Conti Costanti Brunello di Montalcino,2006,brunello,79.99,91,94.06304,-3.06304
+Camigliano Brunello di Montalcino,2006,brunello,47.19,91,93.75142,-2.75142
+Fattoria dei Barbi Brunello di Montalcino,2006,brunello,109.99,90,94.34807,-4.34807
+Da Vinci Brunello di Montalcino,2006,brunello,66.99,92,93.93953,-1.93953
+Dona Paula Malbec Seleccion de Bodega,2009,malbec,39.99,93,91.96305,1.03695
+Antinori Pian Delle Vigne Brunello Di Montalcino,2006,brunello,69.99,95,93.96803,1.03197
+Mastrojanni Brunello di Montalcino,2006,brunello,49.99,94,93.77802,0.22198
+Tenute Silvio Nardi Brunello di Montalcino,2006,brunello,65.99,94,93.93003,0.06997
+Valdicava Brunello Riserva Madonna del Piano (scuffed label),2004,brunello,229.00,97,95.47875,1.52125
+Valdicava Brunello Riserva Madonna del Piano,2006,brunello,259.00,100,95.76378,4.23622
+Valdicava Brunello di Montalcino,2007,brunello,149.99,98,94.72810,3.27190
+Canalicchio di Sopra Brunello di Montalcino,2007,brunello,52.79,92,93.80463,-1.80463
+Castello Romitorio Brunello di Montalcino,2007,brunello,58.99,92,93.86353,-1.86353
+Casanova di Neri Brunello di Montalcino White Label,2007,brunello,57.99,91,93.85403,-2.85403
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2007,brunello,109.97,97,94.34787,2.65213
+Casanova di Neri Brunello di Montalcino Cerretalto,2006,brunello,249.00,99,95.66876,3.33124
+Val di Suga Brunello di Montalcino,2006,brunello,54.99,92,93.82552,-1.82552
+Altesino Brunello di Montalcino,2007,brunello,99.97,91,94.25287,-3.25287
+Altesino Montosoli Brunello di Montalcino,2007,brunello,139.97,98,94.63290,3.36710
+Altesino Brunello di Montalcino Riserva,2006,brunello,89.00,95,94.14864,0.85136
+Poggio San Polo Brunello di Montalcino,2007,brunello,63.99,94,93.91103,0.08897
+Poggio San Polo Brunello di Montalcino Riserva,2006,brunello,66.99,94,93.93953,0.06047
+Salicutti Brunello di Montalcino Piaggione,2007,brunello,79.99,93,94.06304,-1.06304
+Valdicava Brunello di Montalcino,1999,brunello,119.00,91,94.43367,-3.43367
+Valdicava Brunello di Montalcino,2001,brunello,179.97,98,95.01292,2.98708
+San Felice Campogiovanni Brunello di Montalcino,2007,brunello,43.99,94,93.72102,0.27898
+San Felice Campogiovanni Brunello di Montalcino Il Quercione,2006,brunello,89.99,93,94.15805,-1.15805
+Capanna Brunello di Montalcino,2007,brunello,57.99,94,93.85403,0.14597
+Capanna Brunello di Montalcino Riserva,2006,brunello,99.99,95,94.25306,0.74694
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2007,brunello,71.99,96,93.98704,2.01296
+Poggio Antico Brunello di Montalcino,2007,brunello,85.00,94,94.11064,-0.11064
+Poggio Antico Brunello di Montalcino Altero,2007,brunello,89.00,98,94.14864,3.85136
+Poggio Antico Brunello di Montalcino Riserva,2006,brunello,135.00,94,94.58568,-0.58568
+Pietranera Brunello di Montalcino,2007,brunello,42.99,90,93.71152,-3.71152
+La Serena Brunello di Montalcino,2007,brunello,54.99,94,93.82552,0.17448
+La Serena Brunello di Montalcino Riserva Gemini,2006,brunello,89.97,96,94.15786,1.84214
+San Filippo Brunello di Montalcino Le Lucere,2007,brunello,55.99,94,93.83502,0.16498
+Uccelliera Brunello di Montalcino,2007,brunello,59.99,94,93.87303,0.12697
+Banfi Brunello di Montalcino,2007,brunello,71.99,94,93.98704,0.01296
+Frescobaldi Castelgiocondo Brunello di Montalcino,2007,brunello,57.99,94,93.85403,0.14597
+Il Poggione Brunello di Montalcino,2007,brunello,79.99,94,94.06304,-0.06304
+Primus Malbec,2010,malbec,19.99,90,91.77303,-1.77303
+Gaja Rennina Brunello di Montalcino,2007,brunello,129.99,94,94.53809,-0.53809
+Il Poggione Brunello di Montalcino Riserva Vigna Paganelli,2006,brunello,99.99,93,94.25306,-1.25306
+Tenute Silvio Nardi Brunello di Montalcino,2007,brunello,74.99,95,94.01553,0.98447
+Podere Brizio Brunello di Montalcino,2007,brunello,56.99,92,93.84453,-1.84453
+Frescobaldi Castelgiocondo Brunello di Montalcino Riserva,2005,brunello,84.99,93,94.11055,-1.11055
+Frescobaldi Castelgiocondo Brunello di Montalcino Riserva,2006,brunello,109.00,95,94.33866,0.66134
+Col d'Orcia Brunello di Montalcino,2007,brunello,44.99,92,93.73051,-1.73051
+Camigliano Brunello di Montalcino,2007,brunello,54.99,91,93.82552,-2.82552
+Gaja Sugarille Brunello di Montalcino,2008,brunello,165.00,92,94.87070,-2.87070
+La Gerla Brunello di Montalcino,2007,brunello,54.99,92,93.82552,-1.82552
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2007,brunello,58.99,92,93.86353,-1.86353
+Friggiali Brunello di Montalcino,2007,brunello,39.99,92,93.68301,-1.68301
+Valdicava Brunello Riserva Madonna del Piano,2001,brunello,349.00,100,96.61884,3.38116
+Achaval-Ferrer Finca Bella Vista Malbec,2011,malbec,125.00,98,92.77071,5.22929
+Fuligni Brunello di Montalcino Riserva,2006,brunello,124.99,96,94.49058,1.50942
+Val di Suga Brunello di Montalcino,2007,brunello,68.99,92,93.95853,-1.95853
+Mastrojanni Brunello di Montalcino,2007,brunello,43.99,95,93.72102,1.27898
+Ruffino Greppone Mazzi Brunello di Montalcino,2006,brunello,59.99,91,93.87303,-2.87303
+Montes Alpha Series Malbec,2011,malbec,19.99,91,91.77303,-0.77303
+La Poderina Brunello di Montalcino,2007,brunello,57.99,93,93.85403,-0.85403
+Valle Las Acequias Malbec Roble,2008,malbec,14.99,91,91.72552,-0.72552
+Achaval-Ferrer Finca Mirador Malbec,2011,malbec,119.99,93,92.72311,0.27689
+Fuligni Brunello di Montalcino,2007,brunello,89.97,95,94.15786,0.84214
+Lisini Brunello di Montalcino,2007,brunello,78.99,93,94.05354,-1.05354
+Casanova di Neri Brunello di Montalcino White Label,2008,brunello,51.99,90,93.79702,-3.79702
+Uccelliera Brunello di Montalcino Riserva,2006,brunello,119.99,96,94.44307,1.55693
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2008,brunello,79.99,94,94.06304,-0.06304
+Casanova di Neri Brunello di Montalcino Cerretalto,2007,brunello,269.00,97,95.85878,1.14122
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2006,brunello,69.99,96,93.96803,2.03197
+Mastrojanni Brunello di Montalcino,2008,brunello,89.00,94,94.14864,-0.14864
+Caparzo Brunello di Montalcino,2008,brunello,39.99,92,93.68301,-1.68301
+Il Poggione Brunello di Montalcino Riserva Vigna Paganelli,2007,brunello,129.99,95,94.53809,0.46191
+Frescobaldi Castelgiocondo Brunello di Montalcino,2008,brunello,69.99,93,93.96803,-0.96803
+Banfi Brunello di Montalcino,2008,brunello,67.99,93,93.94904,-0.94904
+Castiglion del Bosco Brunello di Montalcino,2007,brunello,46.99,92,93.74951,-1.74951
+Altocedro Ano Cero Malbec,2012,malbec,23.99,92,91.81104,0.18896
+Tenute Silvio Nardi Brunello di Montalcino,2008,brunello,49.99,92,93.77802,-1.77802
+Achaval-Ferrer Mendoza Malbec,2012,malbec,26.99,90,91.83954,-1.83954
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2008,brunello,24.99,91,93.54050,-2.54050
+Caparzo Brunello di Montalcino Riserva,2007,brunello,69.99,92,93.96803,-1.96803
+Luce Della Vite Brunello di Montalcino,2008,brunello,79.99,95,94.06304,0.93696
+Il Poggione Brunello di Montalcino,2008,brunello,74.99,91,94.01553,-3.01553
+Argiano Brunello di Montalcino,2008,brunello,55.99,93,93.83502,-0.83502
+Camigliano Brunello di Montalcino,2008,brunello,57.99,91,93.85403,-2.85403
+La Poderina Brunello di Montalcino,2008,brunello,58.99,93,93.86353,-0.86353
+San Filippo Brunello di Montalcino Le Lucere,2004,brunello,85.00,92,94.11064,-2.11064
+Tenuta la Fuga Brunello di Montalcino,2006,brunello,49.99,93,93.77802,-0.77802
+Conti Costanti Brunello di Montalcino Riserva,2007,brunello,109.00,95,94.33866,0.66134
+Fabre Montmayou Grand Vin,2010,malbec,39.99,95,91.96305,3.03695
+BenMarco Malbec,2012,malbec,17.99,90,91.75403,-1.75403
+La Gerla Brunello di Montalcino,2008,brunello,49.99,92,93.77802,-1.77802
+Livio Sassetti Brunello di Montalcino Pertimali,2008,brunello,44.99,93,93.73051,-0.73051
+Altesino Brunello di Montalcino,2009,brunello,63.99,93,93.91103,-0.91103
+Poggio Il Castellare Brunello di Montalcino,2007,brunello,69.99,94,93.96803,0.03197
+Bodega Cuarto Dominio Chento Malbec,2011,malbec,22.99,92,91.80154,0.19846
+Terrazas de los Andes Reserva Malbec,2012,malbec,17.99,92,91.75403,0.24597
+Caparzo Brunello di Montalcino Riserva,2006,brunello,79.99,95,94.06304,0.93696
+Antinori Pian Delle Vigne Brunello Di Montalcino,2008,brunello,59.99,92,93.87303,-1.87303
+Bodega Noemia de Patagonia Rio Negro Valley Malbec,2011,malbec,129.99,95,92.81812,2.18188
+Susana Balbo Signature Malbec,2012,malbec,21.99,92,91.79204,0.20796
+CARO Aruma Malbec,2013,malbec,17.99,91,91.75403,-0.75403
+CARO Aruma Malbec,2012,malbec,16.98,90,91.74444,-1.74444
+Frescobaldi Castelgiocondo Brunello di Montalcino,2009,brunello,59.99,94,93.87303,0.12697
+Casanova di Neri Brunello di Montalcino Cerretalto,2008,brunello,249.99,96,95.67818,0.32182
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2007,brunello,71.99,94,93.98704,0.01296
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2009,brunello,84.99,93,94.11055,-1.11055
+Pascual Toso Malbec Reserve,2012,malbec,19.99,91,91.77303,-0.77303
+Casanova di Neri Brunello di Montalcino White Label,2009,brunello,59.99,90,93.87303,-3.87303
+Trivento Eolo Malbec,2011,malbec,107.99,94,92.60910,1.39090
+Banfi Brunello di Montalcino,2009,brunello,71.99,91,93.98704,-2.98704
+Recuerdo Malbec,2012,malbec,19.99,91,91.77303,-0.77303
+Fossacolle Brunello di Montalcino,2009,brunello,56.99,92,93.84453,-1.84453
+Caparzo Brunello di Montalcino,2009,brunello,35.99,90,93.64500,-3.64500
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2008,brunello,84.99,90,94.11055,-4.11055
+Argiano Brunello di Montalcino,2009,brunello,54.99,92,93.82552,-1.82552
+Vitanza Brunello di Montalcino Riserva,2006,brunello,52.99,93,93.80652,-0.80652
+La Serena Brunello di Montalcino,2008,brunello,44.99,92,93.73051,-1.73051
+Tenute Silvio Nardi Brunello di Montalcino,2009,brunello,89.99,92,94.15805,-2.15805
+Siro Pacenti Brunello di Montalcino,2007,brunello,77.99,97,94.04404,2.95596
+Dona Paula Estate Malbec,2012,malbec,12.99,93,91.70653,1.29347
+Vina Amalia Reserva Malbec,2012,malbec,20.99,93,91.78253,1.21747
+Catena Alta Malbec,2011,malbec,45.99,93,92.02005,0.97995
+La Poderina Brunello di Montalcino,2009,brunello,52.99,91,93.80652,-2.80652
+Zuccardi Q Malbec,2012,malbec,17.99,91,91.75403,-0.75403
+Fattoria dei Barbi Brunello di Montalcino,2008,brunello,49.99,91,93.77802,-2.77802
+Bodegas Nieto Senetiner Malbec,2012,malbec,17.99,92,91.75403,0.24597
+Kaiken Ultra Malbec,2012,malbec,20.99,94,91.78253,2.21747
+Bodega Calle Alberti 154 Malbec,2012,malbec,17.99,91,91.75403,-0.75403
+Altesino Brunello di Montalcino Riserva,2007,brunello,69.99,95,93.96803,1.03197
+Tenuta la Fuga Brunello di Montalcino,2009,brunello,59.99,90,93.87303,-3.87303
+Il Poggione Brunello di Montalcino,2009,brunello,71.99,92,93.98704,-1.98704
+Le Chiuse Brunello di Montalcino Riserva,2006,brunello,59.99,91,93.87303,-2.87303
+Valdicava Brunello Riserva Madonna del Piano,2007,brunello,329.00,98,96.42883,1.57117
+Valdicava Brunello di Montalcino,2008,brunello,129.00,94,94.52867,-0.52867
+Poggio Antico Brunello di Montalcino Altero,2009,brunello,109.99,92,94.34807,-2.34807
+Poggio Antico Brunello di Montalcino,2009,brunello,69.99,91,93.96803,-2.96803
+Vina Cobos Felino Malbec,2013,malbec,19.99,92,91.77303,0.22697
+Fabre Montmayou Grand Vin,2011,malbec,41.99,94,91.98205,2.01795
+Durigutti Malbec Reserva,2011,malbec,27.99,91,91.84904,-0.84904
+Durigutti Familia Malbec,2009,malbec,64.99,95,92.20057,2.79943
+Luigi Bosca Malbec,2012,malbec,19.99,93,91.77303,1.22697
+Fuligni Brunello di Montalcino Riserva,2007,brunello,134.99,95,94.58559,0.41441
+Il Palazzone Brunello di Montalcino,2009,brunello,84.99,91,94.11055,-3.11055
+Fuligni Brunello di Montalcino,2009,brunello,64.99,93,93.92053,-0.92053
+Altocedro Reserva Malbec,2012,malbec,34.99,93,91.91554,1.08446
+Mendel Malbec,2012,malbec,21.99,94,91.79204,2.20796
+Caparzo Brunello di Montalcino Riserva,2009,brunello,79.99,90,94.06304,-4.06304
+Vina Cobos Cobos Malbec,2011,malbec,185.00,100,93.34076,6.65924
+Vina Cobos Bramare Rebon Vineyard Malbec,2011,malbec,83.99,96,92.38108,3.61892
+Vina Cobos Bramare Uco Valley Malbec,2012,malbec,44.99,93,92.01055,0.98945
+Bodega Colome Estate Malbec,2012,malbec,23.99,92,91.81104,0.18896
+Mastrojanni Brunello di Montalcino Vigna Loreto,2008,brunello,85.00,92,94.11064,-2.11064
+Alta Vista Estate Malbec,2013,malbec,16.99,90,91.74453,-1.74453
+Antinori Pian Delle Vigne Brunello Di Montalcino,2009,brunello,105.00,94,94.30066,-0.30066
+Fabre Montmayou Reserva Malbec,2013,malbec,13.99,93,91.71603,1.28397
+Finca Decero Remolinos Vineyard Malbec,2013,malbec,16.99,90,91.74453,-1.74453
+BenMarco Malbec,2013,malbec,16.99,92,91.74453,0.25547
+Fabre Montmayou Gran Reserva Malbec,2012,malbec,24.99,93,91.82054,1.17946
+Casanova di Neri Brunello di Montalcino White Label,2010,brunello,64.97,96,93.92034,2.07966
+Gaja Rennina Brunello di Montalcino,2010,brunello,169.99,94,94.91811,-0.91811
+Altesino Brunello di Montalcino,2010,brunello,69.99,95,93.96803,1.03197
+Gaja Sugarille Brunello di Montalcino,2010,brunello,174.99,97,94.96561,2.03439
+Vina Cobos Bramare Rebon Vineyard Malbec,2012,malbec,84.99,94,92.39058,1.60942
+Achaval-Ferrer Finca Altamira Malbec,2012,malbec,124.99,93,92.77061,0.22939
+La Serena Brunello di Montalcino,2010,brunello,69.99,97,93.96803,3.03197
+Gianni Brunelli Brunello di Montalcino,2010,brunello,49.99,95,93.77802,1.22198
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2010,brunello,134.97,94,94.58540,-0.58540
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2010,brunello,85.00,98,94.11064,3.88936
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso Riserva Santa Caterina d'Oro,2010,brunello,159.99,100,94.82310,5.17690
+San Filippo Brunello di Montalcino,2010,brunello,64.99,97,93.92053,3.07947
+San Filippo Brunello di Montalcino Le Lucere,2010,brunello,89.99,98,94.15805,3.84195
+Voliero Brunello di Montalcino,2010,brunello,59.99,96,93.87303,2.12697
+Siro Pacenti Brunello di Montalcino Pelagrilli,2010,brunello,57.99,96,93.85403,2.14597
+Siro Pacenti Brunello di Montalcino,2010,brunello,129.97,100,94.53789,5.46211
+Argiano Brunello di Montalcino,2010,brunello,79.97,98,94.06285,3.93715
+Poggio Antico Brunello di Montalcino,2010,brunello,79.99,97,94.06304,2.93696
+Poggio Antico Brunello di Montalcino Altero,2010,brunello,99.99,96,94.25306,1.74694
+Canalicchio di Sopra Brunello di Montalcino,2010,brunello,129.97,96,94.53789,1.46211
+Castello Romitorio Brunello di Montalcino,2010,brunello,69.99,94,93.96803,0.03197
+Castello Romitorio Cru Filo di Seta Brunello di Montalcino,2010,brunello,110.99,98,94.35757,3.64243
+Valdicava Brunello di Montalcino,2010,brunello,129.97,99,94.53789,4.46211
+Valdicava Brunello Riserva Madonna del Piano,2009,brunello,149.97,94,94.72791,-0.72791
+Ricardo Santos Malbec,2013,malbec,18.98,90,91.76344,-1.76344
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2010,brunello,279.97,99,95.96301,3.03699
+Caparzo Brunello di Montalcino,2010,brunello,39.99,95,93.68301,1.31699
+Caparzo Brunello di Montalcino La Casa,2010,brunello,73.99,96,94.00604,1.99396
+Castiglion del Bosco Brunello di Montalcino,2010,brunello,46.99,96,93.74951,2.25049
+Pascual Toso Estate Malbec,2013,malbec,12.99,90,91.70653,-1.70653
+Fossacolle Brunello di Montalcino,2010,brunello,59.99,97,93.87303,3.12697
+Talenti Brunello di Montalcino,2010,brunello,49.99,96,93.77802,2.22198
+La Poderina Brunello di Montalcino,2010,brunello,45.99,94,93.74002,0.25998
+Altesino Montosoli Brunello di Montalcino,2010,brunello,149.99,97,94.72810,2.27190
+Banfi Brunello di Montalcino,2010,brunello,64.99,95,93.92053,1.07947
+Achaval-Ferrer Finca Bella Vista Malbec,2012,malbec,129.99,92,92.81812,-0.81812
+San Felice Campogiovanni Brunello di Montalcino,2010,brunello,53.99,96,93.81602,2.18398
+Piccini Brunello di Montalcino,2010,brunello,64.99,94,93.92053,0.07947
+Altocedro Ano Cero Malbec,2013,malbec,14.99,90,91.72552,-1.72552
+Fuligni Brunello di Montalcino,2010,brunello,80.99,98,94.07254,3.92746
+Banfi Poggio alle Mura Brunello di Montalcino,2010,brunello,109.00,97,94.33866,2.66134
+Fattoria dei Barbi Brunello di Montalcino,2010,brunello,53.99,96,93.81602,2.18398
+Podere Brizio Brunello di Montalcino,2010,brunello,59.99,93,93.87303,-0.87303
+Uccelliera Brunello di Montalcino,2010,brunello,71.99,94,93.98704,0.01296
+Tenute Silvio Nardi Brunello di Montalcino,2010,brunello,58.99,95,93.86353,1.13647
+La Gerla Brunello di Montalcino,2010,brunello,64.99,94,93.92053,0.07947
+Mastrojanni Brunello di Montalcino,2010,brunello,79.99,98,94.06304,3.93696
+Il Palazzone Brunello di Montalcino,2010,brunello,51.99,95,93.79702,1.20298
+Belasco de Baquedano AR Guentota Malbec,2011,malbec,24.99,90,91.82054,-1.82054
+Concha y Toro Gran Reserva Serie Riberas Malbec,2013,malbec,18.99,92,91.76353,0.23647
+Il Poggione Brunello di Montalcino,2010,brunello,99.97,93,94.25287,-1.25287
+Frescobaldi Castelgiocondo Brunello di Montalcino,2010,brunello,74.99,97,94.01553,2.98447
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso Riserva Santa Caterina d'Oro,2007,brunello,99.00,97,94.24365,2.75635
+Vina Alicia Paso de Piedra Malbec,2012,malbec,16.99,90,91.74453,-1.74453
+Le Potazzine Gorelli Brunello di Montalcino,2009,brunello,54.99,91,93.82552,-2.82552
+Il Marroneto Brunello di Montalcino,2010,brunello,79.99,93,94.06304,-1.06304
+Fanti Brunello di Montalcino,2010,brunello,45.99,94,93.74002,0.25998
+Il Marroneto Brunello Madonne delle Grazie,2010,brunello,534.97,94,98.38570,-4.38570
+Cordella Brunello di Montalcino,2010,brunello,69.99,98,93.96803,4.03197
+Bellaria Brunello di Montalcino Assunto,2010,brunello,59.99,97,93.87303,3.12697
+La Fortuna Brunello di Montalcino,2010,brunello,49.99,96,93.77802,2.22198
+Marco Lazzeretti Brunello di Montalcino,2010,brunello,32.99,94,93.61651,0.38349
+Citille di Sopra Brunello di Montalcino,2010,brunello,54.99,96,93.82552,2.17448
+Tapiz Alta Collection Malbec,2012,malbec,20.99,93,91.78253,1.21747
+Bodega Monteviejo Festivo Malbec,2013,malbec,17.99,91,91.75403,-0.75403
+Ricardo Santos Gran Reserva Malbec,2009,malbec,36.99,91,91.93455,-0.93455
+Calcu Malbec,2012,malbec,13.99,90,91.71603,-1.71603
+Lamadrid Gran Reserva Malbec,2010,malbec,28.99,93,91.85854,1.14146
+Tapiz Seleccion de Barricas Red,2009,malbec,34.99,92,91.91554,0.08446
+Alamos Malbec Mendoza Seleccion,2013,malbec,16.99,91,91.74453,-0.74453
+MAAL Biutiful Malbec,2013,malbec,19.99,91,91.77303,-0.77303
+Conti Costanti Brunello di Montalcino,2009,brunello,74.99,92,94.01553,-2.01553
+Val di Suga Vigna del Lago Brunello di Montalcino,2009,brunello,74.99,91,94.01553,-3.01553
+Val di Suga Vigna Spuntali Brunello di Montalcino,2009,brunello,99.98,92,94.25296,-2.25296
+Val di Suga Poggio al Granchio Brunello di Montalcino,2009,brunello,94.99,91,94.20555,-3.20555
+Voliero Brunello di Montalcino,2009,brunello,45.99,92,93.74002,-1.74002
+Camigliano Gualto Brunello di Montalcino Riserva,2006,brunello,99.99,90,94.25306,-4.25306
+Altesino Montosoli Brunello di Montalcino,2009,brunello,109.99,95,94.34807,0.65193
+Le Ragnaie Brunello di Montalcino,2010,brunello,129.97,98,94.53789,3.46211
+Le Chiuse Brunello di Montalcino,2010,brunello,59.99,95,93.87303,1.12697
+Antucura Malbec,2014,malbec,16.99,90,91.74453,-1.74453
+Casarena Lauren's Vineyard Malbec,2011,malbec,41.99,91,91.98205,-0.98205
+CARO Aruma Malbec,2014,malbec,13.99,90,91.71603,-1.71603
+Caparzo Brunello di Montalcino Riserva,2012,brunello,95.99,92,94.21506,-2.21506
+Dona Paula Estate Malbec,2013,malbec,14.99,92,91.72552,0.27448
+Poggio Antico Brunello di Montalcino Altero,1997,brunello,109.00,94,94.33866,-0.33866
+Recuerdo Aliado Malbec,2012,malbec,31.99,90,91.88704,-1.88704
+Ruca Malen Malbec,2013,malbec,16.99,91,91.74453,-0.74453
+Catena Alta Malbec,2012,malbec,67.99,94,92.22907,1.77093
+Zuccardi Q Malbec,2013,malbec,18.99,92,91.76353,0.23647
+Livio Sassetti Brunello di Montalcino Pertimali,2010,brunello,149.97,100,94.72791,5.27209
+Vina Cobos Bramare Marchiori Vineyard Malbec,2011,malbec,96.99,97,92.50459,4.49541
+Vina Cobos Bramare Lujan de Cuyo Malbec,2012,malbec,40.99,94,91.97255,2.02745
+Pulenta Estate Malbec,2011,malbec,26.99,92,91.83954,0.16046
+Pulenta Gran Malbec X,2011,malbec,50.99,92,92.06756,-0.06756
+Mendel Malbec,2013,malbec,25.99,93,91.83004,1.16996
+Palazzo Brunello di Montalcino,2010,brunello,70.99,98,93.97754,4.02246
+Durigutti Malbec Clasico,2014,malbec,14.99,90,91.72552,-1.72552
+Fattoria Scopone Brunello di Montalcino L'Olivare,2010,brunello,49.99,95,93.77802,1.22198
+Fattoria Scopone Brunello di Montalcino,2010,brunello,29.99,93,93.58801,-0.58801
+Crocus Malbec de Cahors,2011,malbec,46.99,90,92.02956,-2.02956
+Il Bosco di Grazia Brunello di Montalcino Grazia,2010,brunello,49.99,96,93.77802,2.22198
+Luca Malbec,2013,malbec,28.99,93,91.85854,1.14146
+Vina Cobos Felino Malbec,2014,malbec,17.99,91,91.75403,-0.75403
+Marcelo Pelleriti Reserve Malbec,2012,malbec,19.99,93,91.77303,1.22697
+Titus Malbec,2012,malbec,44.99,91,92.01055,-1.01055
+Bodega Cuarto Dominio Chento Malbec,2012,malbec,18.99,91,91.76353,-0.76353
+Catena Zapata Argentino Vineyard Malbec,2011,malbec,129.99,92,92.81812,-0.81812
+Bodegas Nieto Senetiner Terroir Blend Malbec,2012,malbec,29.99,92,91.86804,0.13196
+MAAL Imposible Malbec,2013,malbec,26.99,91,91.83954,-0.83954
+Antinori Pian Delle Vigne Brunello Di Montalcino,2010,brunello,79.99,96,94.06304,1.93696
+Susana Balbo Signature Malbec,2013,malbec,23.99,92,91.81104,0.18896
+Collosorbo Brunello di Montalcino,2010,brunello,49.99,92,93.77802,-1.77802
+Luigi Bosca Single Vineyard Malbec,2013,malbec,26.99,90,91.83954,-1.83954
+Riglos Gran Malbec,2013,malbec,29.99,91,91.86804,-0.86804
+Riglos Quinto Malbec,2014,malbec,22.99,90,91.80154,-1.80154
+Vina Cobos Bramare Marchiori Vineyard Malbec,2012,malbec,78.99,95,92.33358,2.66642
+Angulo Innocenti Unisono,2011,malbec,43.99,92,92.00105,-0.00105
+Casarena Reservado Malbec,2013,malbec,20.99,91,91.78253,-0.78253
+Kaiken Ultra Malbec,2013,malbec,20.99,93,91.78253,1.21747
+Val di Suga Brunello di Montalcino,2010,brunello,89.00,92,94.14864,-2.14864
+Fattoria dei Barbi Brunello di Montalcino Vigna del Fiore,2005,brunello,99.99,90,94.25306,-4.25306
+Bodegas Renacer Punto Final Malbec Reserva,2013,malbec,19.99,90,91.77303,-1.77303
+Terrazas de los Andes Reserva Malbec,2013,malbec,20.99,92,91.78253,0.21747
+Bodega Colome Reserva Malbec,2010,malbec,99.99,94,92.53310,1.46690
+Vina Cobos Bramare Lujan de Cuyo Malbec,2013,malbec,38.99,92,91.95355,0.04645
+Casanuova delle Cerbaie Brunello di Montalcino,1997,brunello,149.00,94,94.71869,-0.71869
+Trivento Golden Reserve Malbec,2013,malbec,21.99,92,91.79204,0.20796
+Bodega Colome Estate Malbec,2013,malbec,26.99,93,91.83954,1.16046
+Il Poggione Brunello di Montalcino Riserva Vigna Paganelli,2010,brunello,115.00,97,94.39566,2.60434
+Koyle LTU Malbec,2009,malbec,56.99,93,92.12456,0.87544
+Valdicava Brunello Riserva Madonna del Piano,2010,brunello,269.99,100,95.86819,4.13181
+Pulenta Estate Malbec,2012,malbec,26.99,90,91.83954,-1.83954
+Altesino Brunello di Montalcino,2011,brunello,58.99,92,93.86353,-1.86353
+Il Poggione Brunello di Montalcino,2011,brunello,74.99,93,94.01553,-1.01553
+Bodega Cuarto Dominio Tolentino Winemaker's Selection Malbec,2014,malbec,17.99,91,91.75403,-0.75403
+Casarena Jamilla's Vineyard Malbec,2012,malbec,32.99,90,91.89655,-1.89655
+Frescobaldi Castelgiocondo Brunello di Montalcino Riserva,2009,brunello,141.99,94,94.65208,-0.65208
+Caparzo Brunello di Montalcino,2012,brunello,39.99,91,93.68301,-2.68301
+Luigi Bosca Malbec,2013,malbec,18.99,92,91.76353,0.23647
+Finca El Origen Reserva Malbec,2015,malbec,13.99,90,91.71603,-1.71603
+Bodegas Y Vinedos O. Fournier Urban Uco Malbec,2014,malbec,12.99,90,91.70653,-1.70653
+Belasco de Baquedano Llama Malbec,2015,malbec,14.99,92,91.72552,0.27448
+Zuccardi Q Malbec,2014,malbec,19.99,92,91.77303,0.22697
+Argiano Brunello di Montalcino,2011,brunello,55.99,93,93.83502,-0.83502
+Camigliano Brunello di Montalcino,2011,brunello,54.99,93,93.82552,-0.82552
+Ruca Malen Terroir Series Malbec,2013,malbec,20.99,91,91.78253,-0.78253
+Casarena Lauren's Vineyard Malbec,2012,malbec,45.99,92,92.02005,-0.02005
+Don Rodolfo Malbec,2015,malbec,13.99,90,91.71603,-1.71603
+Ricardo Santos Malbec,2014,malbec,18.99,90,91.76353,-1.76353
+La Serena Brunello di Montalcino Riserva Gemini,2007,brunello,89.99,97,94.15805,2.84195
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2011,brunello,86.99,94,94.12955,-0.12955
+Antucura Malbec,2015,malbec,18.99,91,91.76353,-0.76353
+Molino di Sant'Antimo Brunello di Montalcino VARCO 84,2010,brunello,39.99,93,93.68301,-0.68301
+Caparzo Brunello di Montalcino,2011,brunello,37.99,93,93.66401,-0.66401
+MAAL Biutiful Malbec,2014,malbec,19.99,90,91.77303,-1.77303
+Camigliano Gualto Brunello di Montalcino Riserva,2010,brunello,109.99,96,94.34807,1.65193
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2011,brunello,49.99,94,93.77802,0.22198
+La Serena Brunello di Montalcino Riserva Gemini,2010,brunello,99.99,96,94.25306,1.74694
+San Filippo Brunello di Montalcino,2011,brunello,51.99,94,93.79702,0.20298
+Uccelliera Brunello di Montalcino,2011,brunello,68.99,94,93.95853,0.04147
+Uccelliera Brunello di Montalcino Riserva,2010,brunello,164.97,98,94.87042,3.12958
+Voliero Brunello di Montalcino,2011,brunello,41.99,94,93.70201,0.29799
+Mocali Raunate Brunello di Montalcino Riserva,2010,brunello,85.00,95,94.11064,0.88936
+Siro Pacenti Vecchie Vigne Brunello di Montalcino,2011,brunello,84.99,97,94.11055,2.88945
+Siro Pacenti PS Brunello di Montalcino Riserva,2010,brunello,159.00,97,94.81370,2.18630
+Mastrojanni Brunello di Montalcino,2011,brunello,49.99,93,93.77802,-0.77802
+Trivento Eolo Malbec,2012,malbec,99.99,92,92.53310,-0.53310
+Castiglion del Bosco Brunello di Montalcino,2011,brunello,46.99,91,93.74951,-2.74951
+TintoNegro Limestone Block Malbec,2013,malbec,19.99,90,91.77303,-1.77303
+Fossacolle Brunello di Montalcino Riserva,2010,brunello,109.99,93,94.34807,-1.34807
+Ruca Malen Reserva Malbec,2014,malbec,18.99,90,91.76353,-1.76353
+Fossacolle Brunello di Montalcino,2011,brunello,54.99,94,93.82552,0.17448
+Bodega Rolland Mariflor Malbec,2012,malbec,29.99,93,91.86804,1.13196
+Salvioni Brunello di Montalcino,2011,brunello,149.99,93,94.72810,-1.72810
+Conti Costanti Brunello di Montalcino,2011,brunello,74.99,93,94.01553,-1.01553
+La Serena Brunello di Montalcino,2011,brunello,39.99,90,93.68301,-3.68301
+Altesino Montosoli Brunello di Montalcino,2011,brunello,89.99,94,94.15805,-0.15805
+Gaja Rennina Brunello di Montalcino,2011,brunello,169.99,92,94.91811,-2.91811
+Bodega Noemia de Patagonia Rio Negro Valley Malbec,2013,malbec,139.99,98,92.91312,5.08688
+Pulenta Gran Malbec X,2012,malbec,44.99,94,92.01055,1.98945
+Mocali Brunello di Montalcino Riserva,2010,brunello,84.99,92,94.11055,-2.11055
+Banfi Brunello di Montalcino,2011,brunello,63.99,92,93.91103,-1.91103
+Fattoi Ofelio & Figli Brunello di Montalcino,2008,brunello,64.99,90,93.92053,-3.92053
+Canalicchio di Sopra Brunello di Montalcino,2009,brunello,74.99,91,94.01553,-3.01553
+Podere Giodo Brunello di Montalcino,2010,brunello,179.97,100,95.01292,4.98708
+La Gerla Brunello di Montalcino,2011,brunello,58.99,93,93.86353,-0.86353
+Tapiz Alta Collection Malbec,2013,malbec,20.99,95,91.78253,3.21747
+Altesino Brunello di Montalcino Riserva,2010,brunello,129.00,97,94.52867,2.47133
+Col d'Orcia Brunello di Montalcino,2011,brunello,52.99,91,93.80652,-2.80652
+Fattoria dei Barbi Brunello di Montalcino Vigna del Fiore,2010,brunello,89.99,93,94.15805,-1.15805
+Le Chiuse Brunello di Montalcino,2008,brunello,64.99,92,93.92053,-1.92053
+Achaval-Ferrer Finca Altamira Malbec,2013,malbec,129.99,93,92.81812,0.18188
+Banfi Brunello di Montalcino,2012,brunello,64.99,93,93.92053,-0.92053
+Vina Alicia Las Compuertas Malbec,2011,malbec,29.99,92,91.86804,0.13196
+El Esteco Don David Malbec Reserve,2014,malbec,18.99,91,91.76353,-0.76353
+Casanova di Neri Brunello di Montalcino Cerretalto,2010,brunello,399.97,100,97.10310,2.89690
+Kaiken Ultra Malbec,2014,malbec,21.99,91,91.79204,-0.79204
+Caparzo Brunello di Montalcino Riserva,2010,brunello,79.99,95,94.06304,0.93696
+Yacochuya San Pedro De Yacochuya Malbec,2012,malbec,15.99,91,91.73503,-0.73503
+Molino di Sant'Antimo Brunello di Montalcino VARCO 84,2011,brunello,44.98,92,93.73042,-1.73042
+Fanti Brunello di Montalcino,2011,brunello,42.99,93,93.71152,-0.71152
+Vina Cobos Bramare Marchiori Vineyard Malbec,2013,malbec,89.99,95,92.43809,2.56191
+Molino di Sant'Antimo Brunello di Montalcino,2011,brunello,33.99,91,93.62601,-2.62601
+Catena Alta Malbec,2013,malbec,49.99,94,92.05806,1.94194
+Le Gode Brunello di Montalcino,2006,brunello,85.00,95,94.11064,0.88936
+Frescobaldi Castelgiocondo Brunello di Montalcino,2011,brunello,47.98,93,93.75893,-0.75893
+Argiano Brunello di Montalcino Riserva,2010,brunello,269.99,92,95.86819,-3.86819
+Concha y Toro Gran Reserva Serie Riberas Malbec,2014,malbec,17.99,90,91.75403,-1.75403
+Piccini Brunello di Montalcino,2011,brunello,46.99,90,93.74951,-3.74951
+Le Chiuse Brunello di Montalcino,2011,brunello,58.99,92,93.86353,-1.86353
+Fuligni Brunello di Montalcino,2011,brunello,74.99,94,94.01553,-0.01553
+Achaval-Ferrer Mendoza Malbec,2014,malbec,26.99,90,91.83954,-1.83954
+Mendel Unus,2012,malbec,47.99,95,92.03905,2.96095
+Donatella Cinelli Colombini Brunello di Montalcino,2011,brunello,69.99,93,93.96803,-0.96803
+TintoNegro Mendoza Malbec,2015,malbec,9.99,91,91.67802,-0.67802
+Gaja Sugarille Brunello di Montalcino,2011,brunello,169.99,93,94.91811,-1.91811
+Bodega NQN Malma Finca La Papay Malbec,2015,malbec,13.99,92,91.71603,0.28397
+Poggio Antico Brunello di Montalcino,2011,brunello,66.99,93,93.93953,-0.93953
+Poggio Antico Brunello di Montalcino Altero,2011,brunello,69.99,95,93.96803,1.03197
+Poggio Antico Brunello di Montalcino Riserva,2010,brunello,134.99,98,94.58559,3.41441
+Le Potazzine Gorelli Brunello di Montalcino,2011,brunello,57.99,92,93.85403,-1.85403
+Le Potazzine Gorelli Brunello di Montalcino,2008,brunello,75.99,91,94.02504,-3.02504
+Trapiche Broquel Malbec,2014,malbec,14.99,90,91.72552,-1.72552
+Fabre Montmayou Reserva Malbec,2014,malbec,14.99,91,91.72552,-0.72552
+Altos las Hormigas Uco Valley Terroir Malbec,2013,malbec,18.99,90,91.76353,-1.76353
+Pulenta Estate Malbec,2013,malbec,24.99,92,91.82054,0.17946
+La Gerla Riserva Vigna Gli Angeli Brunello di Montalcino,2010,brunello,89.99,96,94.15805,1.84195
+Luce Della Vite Brunello di Montalcino,2011,brunello,109.99,95,94.34807,0.65193
+Finca Decero Remolinos Vineyard Malbec,2014,malbec,17.99,92,91.75403,0.24597
+Fattoria dei Barbi Brunello di Montalcino,2011,brunello,52.99,91,93.80652,-2.80652
+Gianni Brunelli Brunello di Montalcino,2011,brunello,57.99,92,93.85403,-1.85403
+Tenute Silvio Nardi Brunello di Montalcino,2011,brunello,39.99,91,93.68301,-2.68301
+Mocali Brunello di Montalcino,2011,brunello,38.99,91,93.67351,-2.67351
+Crios de Susana Balbo Malbec,2015,malbec,11.99,90,91.69703,-1.69703
+Fabre Montmayou Grand Vin,2012,malbec,43.99,93,92.00105,0.99895
+Poggio Antico Brunello di Montalcino Altero,2004,brunello,89.99,93,94.15805,-1.15805
+Corte Pavone Brunello di Montalcino,2010,brunello,89.99,95,94.15805,0.84195
+Corte Pavone Brunello di Montalcino,2006,brunello,69.99,96,93.96803,2.03197
+Catena Zapata Nicasia Vineyard Malbec,2012,malbec,114.99,95,92.67561,2.32439
+Fuligni Brunello di Montalcino Riserva,2010,brunello,164.99,99,94.87061,4.12939
+Livio Sassetti Brunello di Montalcino Pertimali Riserva,2010,brunello,129.99,96,94.53809,1.46191
+Mendel Malbec,2014,malbec,24.99,91,91.82054,-0.82054
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2010,brunello,79.99,95,94.06304,0.93696
+Bodegas Renacer Renacer Malbec,2012,malbec,79.99,90,92.34308,-2.34308
+Castiglion del Bosco Brunello di Montalcino Campo del Drago,2010,brunello,99.99,96,94.25306,1.74694
+Andeluna Malbec,2015,malbec,12.99,90,91.70653,-1.70653
+Achaval-Ferrer Finca Mirador Malbec,2013,malbec,139.99,95,92.91312,2.08688
+Achaval-Ferrer Finca Bella Vista Malbec,2013,malbec,139.99,95,92.91312,2.08688
+Castiglion del Bosco Brunello di Montalcino Campo del Drago,2008,brunello,85.00,92,94.11064,-2.11064
+Vina Cobos Bramare Rebon Vineyard Malbec,2013,malbec,94.99,95,92.48559,2.51441
+Bodega Colome Estate Malbec,2014,malbec,24.99,92,91.82054,0.17946
+Dona Paula Malbec Seleccion de Bodega,2011,malbec,38.99,91,91.95355,-0.95355
+Trapiche Oak Cask Malbec,2015,malbec,10.99,90,91.68753,-1.68753
+Terrazas de los Andes Reserva Malbec,2014,malbec,21.99,92,91.79204,0.20796
+Vina Cobos Felino Malbec,2015,malbec,20.99,91,91.78253,-0.78253
+Tapiz Alta Collection Malbec,2014,malbec,19.99,95,91.77303,3.22697
+Zuccardi Serie A Malbec,2015,malbec,13.99,91,91.71603,-0.71603
+Luca Malbec,2014,malbec,28.99,90,91.85854,-1.85854
+Tikal Amorio Malbec,2013,malbec,31.99,91,91.88704,-0.88704
+Val di Suga Poggio al Granchio Brunello di Montalcino,2010,brunello,89.99,93,94.15805,-1.15805
+Vina Cobos Cobos Malbec,2013,malbec,194.99,99,93.43567,5.56433
+Altos las Hormigas Reserva Malbec,2014,malbec,25.99,92,91.83004,0.16996
+Zuccardi Q Malbec,2015,malbec,19.99,94,91.77303,2.22697
+Vina Cobos Bramare Uco Valley Malbec,2014,malbec,38.99,94,91.95355,2.04645
+Vaglio Aggie Malbec,2014,malbec,18.99,93,91.76353,1.23647
+Vaglio Temple Malbec,2014,malbec,18.99,94,91.76353,2.23647
+Trivento Golden Reserve Malbec,2014,malbec,22.99,92,91.80154,0.19846
+Donatella Cinelli Colombini Brunello di Montalcino Riserva,2010,brunello,114.99,94,94.39557,-0.39557
+Casisano Brunello di Montalcino,2011,brunello,49.99,93,93.77802,-0.77802
+Poggio San Polo Brunello di Montalcino,2011,brunello,64.99,95,93.92053,1.07947
+Maipe Reserve Malbec,2015,malbec,20.99,92,91.78253,0.21747
+Val di Suga Brunello di Montalcino,2011,brunello,69.99,92,93.96803,-1.96803
+Antinori Pian Delle Vigne Brunello Di Montalcino,2011,brunello,59.99,94,93.87303,0.12697
+Mendel Unus,2013,malbec,46.99,95,92.02956,2.97044
+Fattoria dei Barbi Brunello di Montalcino Riserva,2008,brunello,109.99,91,94.34807,-3.34807
+Il Palazzone Brunello di Montalcino Riserva,2010,brunello,89.99,95,94.15805,0.84195
+Salentein Reserve Malbec,2015,malbec,20.99,90,91.78253,-1.78253
+Capanna Brunello di Montalcino Riserva,2010,brunello,73.99,97,94.00604,2.99396
+Kaiken Reserva Malbec,2015,malbec,10.99,91,91.68753,-0.68753
+Bodegas Renacer Punto Final Malbec Reserva,2014,malbec,19.99,91,91.77303,-0.77303
+Capanna Brunello di Montalcino,2010,brunello,62.99,94,93.90153,0.09847
+Altos las Hormigas Clasico Malbec,2015,malbec,12.99,90,91.70653,-1.70653
+Norton Malbec Reserva,2014,malbec,12.99,91,91.70653,-0.70653
+Renieri Brunello di Montalcino Riserva,2010,brunello,99.99,100,94.25306,5.74694
+Catena Zapata Argentino Vineyard Malbec,2012,malbec,124.99,98,92.77061,5.22939
+La Posta Fazzio Malbec,2015,malbec,15.99,92,91.73503,0.26497
+Achaval-Ferrer Mendoza Malbec,2015,malbec,21.99,92,91.79204,0.20796
+Catena Zapata Adrianna Vineyard Fortuna Terrae Malbec,2012,malbec,139.99,100,92.91312,7.08688
+Podere Brizio Brunello di Montalcino,2011,brunello,43.99,90,93.72102,-3.72102
+Fabre Montmayou Grand Vin,2013,malbec,41.99,93,91.98205,1.01795
+Bodega Noemia de Patagonia J. Alberto,2014,malbec,39.99,94,91.96305,2.03695
+Andeluna Altitud Malbec,2014,malbec,21.99,92,91.79204,0.20796
+Bodegas Nieto Senetiner Don Nicanor Barrel Select Malbec,2014,malbec,28.99,93,91.85854,1.14146
+Susana Balbo Signature Malbec,2014,malbec,22.99,93,91.80154,1.19846
+Bodega Noemia de Patagonia J. Alberto,2015,malbec,51.99,93,92.07706,0.92294
+Trivento Eolo Malbec,2013,malbec,89.99,94,92.43809,1.56191
+Molino di Sant'Antimo Brunello di Montalcino Riserva,2010,brunello,64.99,93,93.92053,-0.92053
+Canalicchio di Sopra Brunello di Montalcino,2011,brunello,69.98,93,93.96794,-0.96794
+Canalicchio di Sopra Brunello di Montalcino Riserva,2010,brunello,129.99,98,94.53809,3.46191
+Bodegas Nieto Senetiner Don Nicanor Malbec,2014,malbec,18.99,91,91.76353,-0.76353
+Ernesto Catena Selections Padrillos Malbec,2015,malbec,11.99,92,91.69703,0.30297
+Calcu Malbec,2014,malbec,13.99,90,91.71603,-1.71603
+Fabre Montmayou Reserva Malbec,2015,malbec,15.99,91,91.73503,-0.73503
+Capanna Brunello di Montalcino,2009,brunello,54.99,91,93.82552,-2.82552
+Valdicava Brunello di Montalcino,2012,brunello,89.99,96,94.15805,1.84195
+Canalicchio di Sopra Brunello di Montalcino,2012,brunello,79.99,95,94.06304,0.93696
+Vina Alicia Paso de Piedra Malbec,2013,malbec,20.99,90,91.78253,-1.78253
+Kaiken Ultra Malbec,2015,malbec,18.99,93,91.76353,1.23647
+Livio Sassetti Brunello di Montalcino Pertimali,2011,brunello,52.99,92,93.80652,-1.80652
+Ruta 22 Malbec,2016,malbec,11.99,90,91.69703,-1.69703
+Bodegas Nieto Senetiner Don Nicanor Malbec,2015,malbec,18.99,92,91.76353,0.23647
+Argiano Brunello di Montalcino,2012,brunello,44.98,96,93.73042,2.26958
+Talenti Brunello di Montalcino,2012,brunello,36.99,95,93.65451,1.34549
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2012,brunello,57.99,94,93.85403,0.14597
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2012,brunello,66.99,97,93.93953,3.06047
+Gianni Brunelli Brunello di Montalcino,2012,brunello,56.99,93,93.84453,-0.84453
+La Serena Brunello di Montalcino,2012,brunello,49.99,93,93.77802,-0.77802
+Le Potazzine Gorelli Brunello di Montalcino,2012,brunello,64.99,91,93.92053,-2.92053
+Uccelliera Brunello di Montalcino,2012,brunello,54.99,95,93.82552,1.17448
+Mocali Brunello di Montalcino,2012,brunello,44.99,93,93.73051,-0.73051
+Mocali Vigna Raunate Brunello di Montalcino,2012,brunello,51.99,94,93.79702,0.20298
+Siro Pacenti Brunello di Montalcino Pelagrilli,2012,brunello,45.99,95,93.74002,1.25998
+Siro Pacenti Vecchie Vigne Brunello di Montalcino,2012,brunello,84.99,95,94.11055,0.88945
+Poggio Nardone Brunello di Montalcino,2012,brunello,34.99,94,93.63551,0.36449
+Altesino Brunello di Montalcino,2012,brunello,59.99,93,93.87303,-0.87303
+Altesino Montosoli Brunello di Montalcino,2012,brunello,109.99,97,94.34807,2.65193
+Livio Sassetti Brunello di Montalcino Pertimali,2012,brunello,69.99,98,93.96803,4.03197
+San Filippo Brunello di Montalcino,2012,brunello,53.99,93,93.81602,-0.81602
+San Filippo Brunello di Montalcino Le Lucere,2012,brunello,69.99,98,93.96803,4.03197
+Bodegas Y Vinedos O. Fournier Alfa Crux Malbec,2011,malbec,38.99,92,91.95355,0.04645
+Castiglion del Bosco Brunello di Montalcino,2012,brunello,47.99,96,93.75902,2.24098
+Casanuova delle Cerbaie Brunello di Montalcino,2012,brunello,49.99,96,93.77802,2.22198
+La Rasina Brunello di Montalcino,2012,brunello,39.99,96,93.68301,2.31699
+Renieri Brunello di Montalcino,2012,brunello,64.99,95,93.92053,1.07947
+Fanti Brunello di Montalcino,2012,brunello,48.99,94,93.76852,0.23148
+Alamos Malbec Mendoza Seleccion,2015,malbec,19.99,92,91.77303,0.22697
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2011,brunello,89.99,92,94.15805,-2.15805
+Gianni Brunelli Brunello di Montalcino Riserva,2006,brunello,119.99,93,94.44307,-1.44307
+La Fortuna Brunello di Montalcino Riserva,2010,brunello,84.99,97,94.11055,2.88945
+Fattoria dei Barbi Brunello di Montalcino,2012,brunello,39.99,91,93.68301,-2.68301
+Ricardo Santos Malbec,2015,malbec,16.99,90,91.74453,-1.74453
+Frescobaldi Castelgiocondo Brunello di Montalcino,2012,brunello,78.99,93,94.05354,-1.05354
+La Posta Angel Paulucci Vineyard Malbec,2015,malbec,16.99,90,91.74453,-1.74453
+Flechas De Los Andes Gran Malbec,2013,malbec,28.99,92,91.85854,0.14146
+Terrazas de los Andes Reserva Malbec,2015,malbec,19.99,92,91.77303,0.22697
+Molino di Sant'Antimo Brunello di Montalcino,2012,brunello,37.99,93,93.66401,-0.66401
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2012,brunello,94.99,96,94.20555,1.79445
+Casanova di Neri Brunello di Montalcino White Label,2012,brunello,64.99,92,93.92053,-1.92053
+Siro Pacenti Brunello di Montalcino Pelagrilli,2011,brunello,43.99,91,93.72102,-2.72102
+Tapiz Seleccion de Barricas Red,2011,malbec,37.99,93,91.94405,1.05595
+Il Poggione Brunello di Montalcino,2012,brunello,74.99,93,94.01553,-1.01553
+Poggio San Polo Brunello di Montalcino,2012,brunello,59.99,91,93.87303,-2.87303
+TintoNegro Uco Valley-Mendoza Malbec,2015,malbec,13.99,89,91.71603,-2.71603
+La Rasina Brunello di Montalcino,2004,brunello,45.99,93,93.74002,-0.74002
+Ricardo Santos Gran Reserva Malbec,2011,malbec,37.99,91,91.94405,-0.94405
+Tomero Malbec Gran Reserva,2013,malbec,69.99,93,92.24807,0.75193
+San Felice Campogiovanni Brunello di Montalcino,2012,brunello,55.99,93,93.83502,-0.83502
+Marcelo Pelleriti Reserve Malbec,2014,malbec,19.99,93,91.77303,1.22697
+San Felice Campogiovanni Brunello di Montalcino,2011,brunello,58.99,93,93.86353,-0.86353
+Zuccardi Concreto Malbec,2015,malbec,33.99,93,91.90604,1.09396
+La Colombina Brunello di Montalcino,2012,brunello,34.99,92,93.63551,-1.63551
+TintoNegro Limestone Block Malbec,2014,malbec,20.99,91,91.78253,-0.78253
+Capanna Brunello di Montalcino,2011,brunello,39.99,93,93.68301,-0.68301
+Collosorbo Brunello di Montalcino,2011,brunello,48.99,93,93.76852,-0.76852
+Fanti Vigne le Macchiarelle Brunello di Montalcino Riserva,2010,brunello,104.99,97,94.30056,2.69944
+Fanti Vallocchio Brunello di Montalcino,2012,brunello,63.99,92,93.91103,-1.91103
+Achaval-Ferrer Finca Altamira Malbec,2014,malbec,129.99,96,92.81812,3.18188
+Le Chiuse Brunello di Montalcino,2012,brunello,74.99,93,94.01553,-1.01553
+Caparzo Brunello di Montalcino La Casa,2011,brunello,76.99,94,94.03454,-0.03454
+Antinori Pian Delle Vigne Brunello Di Montalcino,2012,brunello,74.99,94,94.01553,-0.01553
+Vitanza Tradizione Brunello di Montalcino,2008,brunello,58.99,90,93.86353,-3.86353
+Poggio di Sotto Brunello di Montalcino Riserva,2010,brunello,559.99,98,98.62341,-0.62341
+Camigliano Brunello di Montalcino,2012,brunello,44.99,92,93.73051,-1.73051
+Collosorbo Brunello di Montalcino,2012,brunello,39.99,95,93.68301,1.31699
+Fuligni Brunello di Montalcino dei Cottimelli,2006,brunello,129.99,96,94.53809,1.46191
+Voliero Brunello di Montalcino,2012,brunello,57.99,91,93.85403,-2.85403
+Piancornello Brunello di Montalcino,2011,brunello,49.99,93,93.77802,-0.77802
+Molino di Sant'Antimo Brunello di Montalcino VARCO 84,2012,brunello,48.99,92,93.76852,-1.76852
+De Martino Las Cruces Malbec,2013,malbec,44.99,95,92.01055,2.98945
+De Martino Limavida Malbec,2011,malbec,38.99,92,91.95355,0.04645
+Bodega Noemia de Patagonia Rio Negro Valley Malbec,2014,malbec,99.99,95,92.53310,2.46690
+Bodega Monteviejo Lindaflor La Violeta,2009,malbec,110.99,94,92.63760,1.36240
+Col d'Orcia Brunello di Montalcino,2012,brunello,52.99,93,93.80652,-0.80652
+Bodega Cuarto Dominio Malbec,2014,malbec,55.99,95,92.11506,2.88494
+Bodega Aniello 006 Malbec,2015,malbec,15.99,91,91.73503,-0.73503
+Bodegas San Huberto La Rioja Malbec,2015,malbec,8.99,90,91.66853,-1.66853
+Cuvelier Los Andes Malbec,2015,malbec,17.99,92,91.75403,0.24597
+Altos las Hormigas Gualtallary Malbec,2014,malbec,39.99,92,91.96305,0.03695
+Bodini Malbec,2016,malbec,12.99,90,91.70653,-1.70653
+Mendel Malbec,2015,malbec,26.99,93,91.83954,1.16046
+Altos las Hormigas Uco Valley Terroir Malbec,2015,malbec,18.99,89,91.76353,-2.76353
+Camigliano Gualto Brunello di Montalcino Riserva,2011,brunello,89.99,92,94.15805,-2.15805
+Fossacolle Brunello di Montalcino,2012,brunello,69.99,92,93.96803,-1.96803
+Fanti Vallocchio Brunello di Montalcino,2010,brunello,64.99,94,93.92053,0.07947
+CARO Aruma Malbec,2016,malbec,14.99,91,91.72552,-0.72552
+Kaiken Mai Malbec,2013,malbec,79.99,97,92.34308,4.65692
+Vina Cobos Felino Malbec,2016,malbec,19.99,92,91.77303,0.22697
+Zuccardi Finca Canal Uco,2012,malbec,119.99,95,92.72311,2.27689
+Catena Zapata Adrianna Vineyard Fortuna Terrae Malbec,2013,malbec,138.99,96,92.90363,3.09637
+Finca Sophenia  E.S. Vino Malbec,2014,malbec,9.99,92,91.67802,0.32198
+Trapiche Oak Cask Malbec,2016,malbec,10.99,90,91.68753,-1.68753
+Achaval-Ferrer Mendoza Malbec,2016,malbec,17.98,91,91.75394,-0.75394
+Vina Cobos Bramare Lujan de Cuyo Malbec,2014,malbec,37.99,96,91.94405,4.05595
+Tenute Silvio Nardi Brunello di Montalcino,2012,brunello,57.99,93,93.85403,-0.85403
+Alamos Malbec,2016,malbec,9.99,91,91.67802,-0.67802
+Donatella Cinelli Colombini Brunello di Montalcino,2012,brunello,69.99,92,93.96803,-1.96803
+Zuccardi Aluvional Altamira Malbec,2012,malbec,84.99,96,92.39058,3.60942
+Caparzo Brunello di Montalcino La Casa,2012,brunello,74.99,94,94.01553,-0.01553
+Catena Alta Malbec,2014,malbec,45.99,95,92.02005,2.97995
+Poggio Antico Brunello di Montalcino,2012,brunello,66.99,95,93.93953,1.06047
+Finca Decero Remolinos Vineyard Malbec,2015,malbec,17.98,90,91.75394,-1.75394
+La Fortuna Brunello di Montalcino Riserva,2010,brunello,71.99,97,93.98704,3.01296
+Palazzo Brunello di Montalcino,2010,brunello,56.99,98,93.84453,4.15547
+Fattoria La Lecciaia Brunello di Montalcino,2012,brunello,41.99,92,93.70201,-1.70201
+Azienda Vitivinicola Terre Nere Brunello di Montalcino Campigli Vallone,2010,brunello,71.99,95,93.98704,1.01296
+Fattoria La Lecciaia Brunello di Montalcino,2009,brunello,49.99,90,93.77802,-3.77802
+La Poderina Brunello di Montalcino Poggio Abate Riserva,2012,brunello,89.99,92,94.15805,-2.15805
+Graffito Malbec,2015,malbec,19.99,92,91.77303,0.22697
+Donna Olga Brunello di Montalcino,2004,brunello,41.99,90,93.70201,-3.70201
+La Colombina Brunello di Montalcino,2013,brunello,44.99,91,93.73051,-2.73051
+Manos Negras Stone Soil Select Malbec,2014,malbec,20.99,93,91.78253,1.21747
+Fuligni Brunello di Montalcino,2012,brunello,84.99,95,94.11055,0.88945
+El Enemigo Malbec,2014,malbec,24.99,90,91.82054,-1.82054
+Argento Reserva Malbec,2014,malbec,18.99,92,91.76353,0.23647
+Dona Paula Malbec Seleccion de Bodega,2014,malbec,37.99,92,91.94405,0.05595
+Luca Old Vine Malbec,2015,malbec,29.99,93,91.86804,1.13196
+Pulenta Gran Malbec X,2013,malbec,44.99,97,92.01055,4.98945
+Vina Cobos Bramare Rebon Vineyard Malbec,2014,malbec,89.99,94,92.43809,1.56191
+Vina Cobos Bramare Marchiori Vineyard Malbec,2014,malbec,94.99,94,92.48559,1.51441
+Zuccardi Aluvional Altamira Malbec,2013,malbec,79.99,94,92.34308,1.65692
+Zuccardi Finca Piedra Infinita Altamira,2013,malbec,109.99,96,92.62810,3.37190
+Bodegas Renacer Punto Final Malbec Reserva,2015,malbec,19.99,90,91.77303,-1.77303
+Ernesto Catena Selections Tahuan Malbec,2015,malbec,15.99,90,91.73503,-1.73503
+Verum Malbec,2014,malbec,17.99,92,91.75403,0.24597
+Castiglion del Bosco Brunello di Montalcino Campo del Drago,2011,brunello,94.99,93,94.20555,-1.20555
+Famiglia Bianchi Malbec,2014,malbec,18.99,91,91.76353,-0.76353
+Alta Vista Premium Malbec,2015,malbec,20.99,89,91.78253,-2.78253
+Catena Malbec,2015,malbec,18.99,92,91.76353,0.23647
+Caparzo Brunello di Montalcino Riserva,2011,brunello,84.99,92,94.11055,-2.11055
+Dona Paula Estate Malbec,2016,malbec,12.99,92,91.70653,0.29347
+La Gerla Brunello di Montalcino,2012,brunello,54.99,91,93.82552,-2.82552
+Capanna Brunello di Montalcino,2012,brunello,53.99,94,93.81602,0.18398
+Trivento Golden Reserve Malbec,2015,malbec,21.99,94,91.79204,2.20796
+Tomero Malbec Gran Reserva,2015,malbec,74.99,92,92.29558,-0.29558
+Mocali Brunello di Montalcino Vigna delle Raunate Riserva,2012,brunello,43.99,95,93.72102,1.27898
+Eighty Four Malbec,2013,malbec,49.99,91,92.05806,-1.05806
+Altos las Hormigas Appellation Paraje Altamira Malbec,2015,malbec,42.99,93,91.99155,1.00845
+Mocali Brunello di Montalcino Riserva,2011,brunello,69.99,93,93.96803,-0.96803
+Antinori Pian delle Vigne Vignaferrovia Brunello di Montalcino Riserva,2010,brunello,145.00,98,94.68069,3.31931
+Concha y Toro Gran Reserva Serie Riberas Malbec,2015,malbec,15.99,92,91.73503,0.26497
+Mastrojanni Brunello di Montalcino,2012,brunello,66.99,94,93.93953,0.06047
+Mastrojanni Brunello di Montalcino Vigna Schiena d'Asino,2010,brunello,159.99,94,94.82310,-0.82310
+Montes Alpha Series Malbec,2014,malbec,21.99,92,91.79204,0.20796
+BenMarco Malbec,2014,malbec,16.99,93,91.74453,1.25547
+Catena Zapata Argentino Vineyard Malbec,2013,malbec,119.99,93,92.72311,0.27689
+Catena Zapata Nicasia Vineyard Malbec,2013,malbec,129.99,94,92.81812,1.18188
+Collemattoni Brunello di Montalcino,2012,brunello,59.99,93,93.87303,-0.87303
+La Magia Brunello di Montalcino,2012,brunello,39.99,96,93.68301,2.31699
+Sassodisole Brunello di Montalcino,2012,brunello,39.99,93,93.68301,-0.68301
+Solaria Patrizia Cencioni Brunello di Montalcino,2012,brunello,37.99,93,93.66401,-0.66401
+San Polino Brunello di Montalcino Helichrysum,2012,brunello,79.99,95,94.06304,0.93696
+Susana Balbo Signature Malbec,2015,malbec,19.99,92,91.77303,0.22697
+Poggio Antico Brunello di Montalcino Altero,2012,brunello,79.99,94,94.06304,-0.06304
+Poggio di Sotto Brunello di Montalcino,2011,brunello,289.99,93,96.05820,-3.05820
+Concha y Toro Gran Reserva Serie Riberas Malbec,2016,malbec,19.99,91,91.77303,-0.77303
+Piattelli Premium Reserve Malbec,2016,malbec,13.99,92,91.71603,0.28397
+Bodegas Nieto Senetiner Don Nicanor Single Vineyard Malbec,2013,malbec,39.99,91,91.96305,-0.96305
+Finca El Origen Reserva Malbec,2016,malbec,13.99,93,91.71603,1.28397
+Bodega Chakana Estate Selection Malbec,2015,malbec,25.99,90,91.83004,-1.83004
+Kaiken Ultra Malbec,2016,malbec,21.99,94,91.79204,2.20796
+Antucura Malbec,2016,malbec,15.99,90,91.73503,-1.73503
+Banfi Brunello di Montalcino Poggio Alle Mura,2013,brunello,89.00,96,94.14864,1.85136
+Podere Giodo Brunello di Montalcino,2013,brunello,249.00,96,95.66876,0.33124
+Mocali Brunello di Montalcino,2014,brunello,18.00,90,93.47409,-3.47409
+Caparzo Brunello di Montalcino La Casa,2004,brunello,105.00,93,94.30066,-1.30066
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2004,brunello,73.00,92,93.99663,-1.99663
+Vina Alicia Las Compuertas Malbec,2012,malbec,32.99,91,91.89655,-0.89655
+Vina Cobos Bramare Uco Valley Malbec,2015,malbec,38.99,93,91.95355,1.04645
+Canalicchio di Sopra Brunello di Montalcino,2013,brunello,79.99,93,94.06304,-1.06304
+Fossacolle Brunello di Montalcino,2004,brunello,56.00,92,93.83511,-1.83511
+Trapiche Oak Cask Malbec,2017,malbec,10.99,91,91.68753,-0.68753
+Trapiche Broquel Malbec,2016,malbec,16.99,90,91.74453,-1.74453
+Terrazas de los Andes Reserva Malbec,2016,malbec,22.99,92,91.80154,0.19846
+Pascual Toso Estate Malbec,2016,malbec,13.99,92,91.71603,0.28397
+La Posta Fazzio Malbec,2016,malbec,15.99,90,91.73503,-1.73503
+Banfi Brunello di Montalcino Poggio Alle Mura,1999,brunello,99.97,95,94.25287,0.74713
+Susana Balbo Signature Malbec,2016,malbec,19.99,95,91.77303,3.22697
+Bodegas Nieto Senetiner Malbec,2017,malbec,13.99,91,91.71603,-0.71603
+Collosorbo Brunello di Montalcino,2013,brunello,47.99,95,93.75902,1.24098
+La Posta Pizzella Family Vineyard Malbec,2016,malbec,16.99,92,91.74453,0.25547
+Collosorbo Brunello di Montalcino Riserva,2012,brunello,104.99,95,94.30056,0.69944
+Bodegas Nieto Senetiner Don Nicanor Malbec,2016,malbec,18.99,91,91.76353,-0.76353
+Altesino Brunello di Montalcino,2013,brunello,59.99,94,93.87303,0.12697
+Altesino Montosoli Brunello di Montalcino,2013,brunello,115.99,98,94.40508,3.59492
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2013,brunello,108.99,98,94.33856,3.66144
+Renieri Brunello di Montalcino,2013,brunello,78.99,98,94.05354,3.94646
+Argiano Brunello di Montalcino,2013,brunello,57.99,96,93.85403,2.14597
+Fuligni Brunello di Montalcino,2013,brunello,79.99,96,94.06304,1.93696
+La Rasina Brunello di Montalcino,2013,brunello,49.99,96,93.77802,2.22198
+San Filippo Brunello di Montalcino Le Lucere,2013,brunello,84.99,96,94.11055,1.88945
+Poggio San Polo Brunello di Montalcino,2013,brunello,71.99,96,93.98704,2.01296
+Siro Pacenti Brunello di Montalcino Pelagrilli,2013,brunello,44.99,96,93.73051,2.26949
+Capanna Brunello di Montalcino,2013,brunello,66.99,95,93.93953,1.06047
+Banfi Brunello di Montalcino,2013,brunello,85.00,95,94.11064,0.88936
+Castiglion del Bosco Brunello di Montalcino Campo del Drago,2013,brunello,89.99,95,94.15805,0.84195
+Frescobaldi Castelgiocondo Brunello di Montalcino,2013,brunello,85.99,95,94.12005,0.87995
+Camigliano Brunello di Montalcino,2013,brunello,48.99,94,93.76852,0.23148
+Caparzo Brunello di Montalcino La Casa,2013,brunello,71.99,94,93.98704,0.01296
+Castiglion del Bosco Brunello di Montalcino,2013,brunello,49.99,94,93.77802,0.22198
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso,2013,brunello,78.99,94,94.05354,-0.05354
+Col d'Orcia Brunello di Montalcino,2013,brunello,53.99,94,93.81602,0.18398
+Uccelliera Brunello di Montalcino,2013,brunello,72.99,94,93.99654,0.00346
+Voliero Brunello di Montalcino,2013,brunello,55.99,94,93.83502,0.16498
+Caparzo Brunello di Montalcino,2013,brunello,39.99,93,93.68301,-0.68301
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2013,brunello,59.99,93,93.87303,-0.87303
+Fanti Brunello di Montalcino,2013,brunello,43.99,93,93.72102,-0.72102
+La Poderina Brunello di Montalcino,2013,brunello,49.99,93,93.77802,-0.77802
+Piancornello Brunello di Montalcino,2013,brunello,54.99,93,93.82552,-0.82552
+Catena Zapata Adrianna Vineyard River Stones Malbec,2013,malbec,164.99,96,93.15064,2.84936
+Poggio Nardone Brunello di Montalcino,2013,brunello,44.99,91,93.73051,-2.73051
+Pulenta La Flor Malbec,2017,malbec,14.99,91,91.72552,-0.72552
+Devil Proof Vineyards Farrow Ranch Malbec,2014,malbec,147.99,91,92.98914,-1.98914
+La Serena Brunello di Montalcino,2013,brunello,57.99,93,93.85403,-0.85403
+Tilia Malbec,2017,malbec,9.99,90,91.67802,-1.67802
+Casanova di Neri Brunello di Montalcino White Label,2013,brunello,59.99,93,93.87303,-0.87303
+Bodegas Nieto Senetiner Don Nicanor Barrel Select Malbec,2015,malbec,24.99,92,91.82054,0.17946
+Tapiz Black Tears Malbec,2012,malbec,51.99,93,92.07706,0.92294
+BenMarco Malbec,2015,malbec,16.99,92,91.74453,0.25547
+Belasco de Baquedano Llama Malbec,2017,malbec,13.99,91,91.71603,-0.71603
+Altocedro Reserva Malbec,2015,malbec,39.99,90,91.96305,-1.96305
+Anko Flor de Cardon Malbec,2015,malbec,27.99,93,91.84904,1.15096
+Bodega Cuarto Dominio Chento Malbec,2014,malbec,19.99,92,91.77303,0.22697
+Castiglion del Bosco Brunello di Montalcino Campo del Drago,2012,brunello,109.99,94,94.34807,-0.34807
+Anko Malbec,2016,malbec,18.99,92,91.76353,0.23647
+Molino di Sant'Antimo Brunello di Montalcino,2013,brunello,49.99,93,93.77802,-0.77802
+Luce Della Vite Brunello di Montalcino,2013,brunello,144.99,96,94.68059,1.31941
+Donatella Cinelli Colombini Brunello di Montalcino,2013,brunello,69.99,94,93.96803,0.03197
+Fattoria dei Barbi Brunello di Montalcino,2013,brunello,57.99,91,93.85403,-2.85403
+Fossacolle Brunello di Montalcino,2013,brunello,64.99,92,93.92053,-1.92053
+Il Poggione Brunello di Montalcino,2013,brunello,79.99,92,94.06304,-2.06304
+La Gerla Brunello di Montalcino,2013,brunello,57.99,91,93.85403,-2.85403
+San Felice Campogiovanni Brunello di Montalcino,2013,brunello,57.99,94,93.85403,0.14597
+San Filippo Brunello di Montalcino,2013,brunello,64.99,92,93.92053,-1.92053
+Altesino Brunello di Montalcino Riserva,2012,brunello,124.99,94,94.49058,-0.49058
+Camigliano Gualto Brunello di Montalcino Riserva,2012,brunello,79.99,92,94.06304,-2.06304
+Donatella Cinelli Colombini Brunello di Montalcino Riserva,2012,brunello,139.00,92,94.62369,-2.62369
+Fanti Vigne le Macchiarelle Brunello di Montalcino Riserva,2012,brunello,99.99,93,94.25306,-1.25306
+Fuligni Brunello di Montalcino Riserva,2012,brunello,179.99,98,95.01312,2.98688
+Il Poggione Brunello di Montalcino Riserva Vigna Paganelli,2012,brunello,125.00,97,94.49068,2.50932
+Mocali Brunello di Montalcino Riserva,2012,brunello,85.99,91,94.12005,-3.12005
+Uccelliera Brunello di Montalcino Riserva,2012,brunello,155.99,96,94.78510,1.21490
+Banfi Brunello di Montalcino Poggio Alle Mura,2012,brunello,84.99,95,94.11055,0.88945
+Salentein Reserve Malbec,2016,malbec,18.99,93,91.76353,1.23647
+Black Cabra Malbec,2017,malbec,11.99,89,91.69703,-2.69703
+Alamos Malbec,2017,malbec,9.99,91,91.67802,-0.67802
+Ruta 22 Malbec,2017,malbec,10.99,90,91.68753,-1.68753
+Ciacci Piccolomini d'Aragona Brunello di Montalcino Pianrosso Riserva Santa Caterina d'Oro,2012,brunello,169.99,97,94.91811,2.08189
+Gianni Brunelli Brunello di Montalcino,2013,brunello,74.99,90,94.01553,-4.01553
+Casanova di Neri Brunello di Montalcino Cerretalto,2012,brunello,344.99,97,96.58075,0.41925
+Bodega Cuarto Dominio Tolentino Winemaker's Selection Malbec,2016,malbec,16.99,92,91.74453,0.25547
+Catena Zapata Adrianna Vineyard River Stones Malbec,2014,malbec,154.99,94,93.05563,0.94437
+Finca Decero Remolinos Vineyard Malbec,2016,malbec,19.99,90,91.77303,-1.77303
+Trapiche Medalla Malbec,2013,malbec,22.99,92,91.80154,0.19846
+Alta Vista Classic Malbec,2017,malbec,12.99,90,91.70653,-1.70653
+Tapiz Malbec,2016,malbec,12.99,91,91.70653,-0.70653
+Don Miguel Gascon Malbec Riserva,2015,malbec,19.99,91,91.77303,-0.77303
+Le Potazzine Gorelli Brunello di Montalcino,2013,brunello,76.99,93,94.03454,-1.03454
+Ruffino Greppone Mazzi Brunello di Montalcino,2012,brunello,78.99,93,94.05354,-1.05354
+Terrazas de los Andes Las Compuertas Single Vineyard Malbec,2013,malbec,58.99,97,92.14356,4.85644
+Gaja Rennina Brunello di Montalcino,2013,brunello,175.00,94,94.96571,-0.96571
+Gaja Sugarille Brunello di Montalcino,2013,brunello,199.00,94,95.19373,-1.19373
+Livio Sassetti Brunello di Montalcino Pertimali Riserva,2012,brunello,139.99,95,94.63309,0.36691
+El Enemigo Malbec,2015,malbec,24.99,92,91.82054,0.17946
+Zorzal Terroir Unico Malbec,2017,malbec,14.99,91,91.72552,-0.72552
+Piancornello Brunello di Montalcino Riserva,2012,brunello,79.99,94,94.06304,-0.06304
+Domaine Bousquet Tupungato Malbec,2017,malbec,11.99,90,91.69703,-1.69703
+Manos Negras Malbec,2016,malbec,16.99,92,91.74453,0.25547
+Fossacolle Brunello di Montalcino Riserva,2012,brunello,125.00,93,94.49068,-1.49068
+Fabre Montmayou Gran Reserva Malbec,2015,malbec,23.99,90,91.81104,-1.81104
+Fabre Montmayou Reserva Malbec,2016,malbec,14.99,92,91.72552,0.27448
+Poggio Antico Brunello di Montalcino Riserva,2012,brunello,129.99,97,94.53809,2.46191
+Livio Sassetti Brunello di Montalcino Pertimali,2013,brunello,69.99,98,93.96803,4.03197
+Capanna Brunello di Montalcino Riserva,2012,brunello,119.99,92,94.44307,-2.44307
+Mocali Vigna Raunate Brunello di Montalcino,2013,brunello,51.99,92,93.79702,-1.79702
+Tenute Silvio Nardi Poggio Doria Brunello di Montalcino,2012,brunello,114.99,93,94.39557,-1.39557
+Tenute Silvio Nardi Brunello di Montalcino Manachiara,2012,brunello,104.99,93,94.30056,-1.30056
+TintoNegro Limestone Block Malbec,2015,malbec,18.99,92,91.76353,0.23647
+Catena Zapata Adrianna Vineyard Fortuna Terrae Malbec,2014,malbec,129.99,98,92.81812,5.18188
+Catena Zapata Nicasia Vineyard Malbec,2014,malbec,99.99,95,92.53310,2.46690
+Altos las Hormigas Gualtallary Malbec,2013,malbec,38.99,96,91.95355,4.04645
+Ruffino Greppone Mazzi Brunello di Montalcino,2011,brunello,74.99,92,94.01553,-2.01553
+Livio Sassetti Brunello di Montalcino Rouge,2004,brunello,46.99,94,93.74951,0.25049
+Ruffino Greppone Mazzi Brunello di Montalcino,2010,brunello,69.99,94,93.96803,0.03197
+Casanova di Neri Brunello di Montalcino Tenuta Nuova,2006,brunello,139.99,100,94.63309,5.36691
+Amalaya Malbec,2017,malbec,14.99,90,91.72552,-1.72552
+Bodini Malbec,2017,malbec,12.99,90,91.70653,-1.70653
+Alamos Malbec Mendoza Seleccion,2016,malbec,16.99,92,91.74453,0.25547
+Poggio Antico Brunello di Montalcino,2004,brunello,71.99,91,93.98704,-2.98704
+Capanna Brunello di Montalcino,2004,brunello,47.99,93,93.75902,-0.75902
+Phebus Reserva Malbec,2016,malbec,14.99,92,91.72552,0.27448
+Bodegas Nieto Senetiner Don Nicanor Barrel Select Malbec,2016,malbec,24.99,94,91.82054,2.17946
+La Gerla Riserva Vigna Gli Angeli Brunello di Montalcino,2011,brunello,104.99,93,94.30056,-1.30056
+Altocedro Ano Cero Malbec,2017,malbec,18.99,90,91.76353,-1.76353
+Achaval-Ferrer Mendoza Malbec,2017,malbec,28.99,92,91.85854,0.14146
+Vina Cobos Bramare Marchiori Vineyard Malbec,2015,malbec,109.99,97,92.62810,4.37190
+De Martino Las Cruces Malbec,2014,malbec,41.99,93,91.98205,1.01795
+Vina Cobos Felino Malbec,2017,malbec,17.99,93,91.75403,1.24597
+Poggio San Polo Brunello di Montalcino Riserva,2012,brunello,145.99,96,94.69009,1.30991
+Vina Cobos Bramare Lujan de Cuyo Malbec,2015,malbec,36.99,93,91.93455,1.06545
+Savage Grace Wines Boushey Vineyard Cot,2016,malbec,27.99,95,91.84904,3.15096
+Inkarri by Chakana Estate Malbec,2017,malbec,10.99,91,91.68753,-0.68753
+Pulenta Gran Malbec X,2014,malbec,49.99,94,92.05806,1.94194
+El Esteco Don David Malbec Reserve,2017,malbec,15.99,90,91.73503,-1.73503
+La Gerla Riserva Vigna Gli Angeli Brunello di Montalcino,2012,brunello,99.99,93,94.25306,-1.25306
+Bodega Noemia de Patagonia Rio Negro Valley Malbec,2015,malbec,119.00,94,92.71371,1.28629
+Altos las Hormigas Uco Valley Terroir Malbec,2016,malbec,18.99,90,91.76353,-1.76353
+Kirkland Signature Kirkland Signature Malbec, Argentina,2017,malbec,8.99,91,91.66853,-0.66853
+Zuccardi Concreto Malbec,2017,malbec,34.99,96,91.91554,4.08446
+Wapisa Malbec,2016,malbec,19.99,95,91.77303,3.22697
+Zorzal Gran Terroir Malbec,2016,malbec,18.99,93,91.76353,1.23647
+Bodega Monteviejo Lindaflor La Violeta,2010,malbec,104.99,95,92.58060,2.41940
+Luca Old Vine Malbec,2016,malbec,24.99,93,91.82054,1.17946
+Val di Suga Brunello di Montalcino,2013,brunello,65.99,93,93.93003,-0.93003
+Catena Alta Malbec,2015,malbec,49.99,93,92.05806,0.94194
+CARO Aruma Malbec,2017,malbec,16.99,91,91.74453,-0.74453
+Trapiche Medalla Malbec,2015,malbec,22.99,91,91.80154,-0.80154
+Bodega Cuarto Dominio Tolentino Winemaker's Selection Malbec,2017,malbec,18.99,90,91.76353,-1.76353
+Graffito Malbec,2016,malbec,15.99,90,91.73503,-1.73503
+Bodega Colome Estate Malbec,2016,malbec,23.99,92,91.81104,0.18896
+Gianni Brunelli Brunello di Montalcino Riserva,2013,brunello,109.99,93,94.34807,-1.34807
+Huarpe Taymente Malbec,2017,malbec,14.99,90,91.72552,-1.72552
+Bodega Monteviejo Festivo Malbec,2017,malbec,13.99,91,91.71603,-0.71603
+Baron Edmond de Rothschild Aguaribay Malbec,2016,malbec,14.99,91,91.72552,-0.72552
+Val di Suga Poggio al Granchio Brunello di Montalcino,2013,brunello,78.99,94,94.05354,-0.05354
+Catena Malbec,2016,malbec,19.99,91,91.77303,-0.77303
+Dona Paula Estate Malbec,2017,malbec,15.99,91,91.73503,-0.73503
+Caparzo Brunello di Montalcino,2014,brunello,44.99,91,93.73051,-2.73051
+Devil Proof Vineyards Farrow Ranch Malbec,2015,malbec,149.99,94,93.00813,0.99187
+Zuccardi Q Malbec,2016,malbec,19.99,92,91.77303,0.22697
+Bodega Noemia de Patagonia J. Alberto,2016,malbec,46.99,94,92.02956,1.97044
+Bodega Chakana Estate Selection Malbec,2016,malbec,29.99,90,91.86804,-1.86804
+Col d'Orcia Poggio al Vento Brunello di Montalcino Riserva,2010,brunello,159.99,95,94.82310,0.17690
+Matervini Finca Perdriel,2015,malbec,89.99,93,92.43809,0.56191
+La Posta Pizzella Family Vineyard Malbec,2017,malbec,14.99,93,91.72552,1.27448
+Lamadrid Malbec,2017,malbec,15.99,91,91.73503,-0.73503
+Val di Suga Vigna Spuntali Brunello di Montalcino,2013,brunello,99.00,94,94.24365,-0.24365
+La Posta Fazzio Malbec,2017,malbec,18.99,92,91.76353,0.23647
+Bodega Cuarto Dominio Lote 44 Malbec,2017,malbec,13.99,93,91.71603,1.28397
+Vina Alicia Paso de Piedra Malbec,2015,malbec,19.99,93,91.77303,1.22697
+Lisini Brunello di Montalcino,2014,brunello,54.99,91,93.82552,-2.82552
+Ciacci Piccolomini d'Aragona Brunello di Montalcino,2014,brunello,54.99,92,93.82552,-1.82552
+Dona Paula Parcel Alluvia Malbec,2011,malbec,98.99,93,92.52359,0.47641
+Tapiz Black Tears Malbec,2013,malbec,58.99,93,92.14356,0.85644
+Zolo Black Malbec,2013,malbec,43.99,92,92.00105,-0.00105
+Vina Cobos Bramare Lujan de Cuyo Malbec,2016,malbec,49.99,94,92.05806,1.94194
+Vina Cobos Bramare Uco Valley Malbec,2016,malbec,44.99,92,92.01055,-0.01055
+Poggio di Sotto Brunello di Montalcino Riserva,2011,brunello,459.99,94,97.67333,-3.67333
+El Esteco Malbec,2016,malbec,25.99,92,91.83004,0.16996
+Fattoria La Lecciaia Brunello di Montalcino,2013,brunello,39.99,95,93.68301,1.31699
+Alta Vista Estate Malbec,2017,malbec,19.99,90,91.77303,-1.77303
+Domaine Bousquet Reserva Malbec,2017,malbec,17.99,90,91.75403,-1.75403
+La Serena Brunello di Montalcino Riserva Gemini,2012,brunello,98.99,94,94.24356,-0.24356
+Bodega Cuarto Dominio Chento Malbec,2015,malbec,19.99,93,91.77303,1.22697
+Altesino Brunello di Montalcino,2014,brunello,59.99,91,93.87303,-2.87303
+Gianni Brunelli Brunello di Montalcino,2014,brunello,64.99,90,93.92053,-3.92053
+Uccelliera Brunello di Montalcino,2014,brunello,61.99,92,93.89203,-1.89203
+Castello Tricerchi Brunello di Montalcino,2013,brunello,52.99,92,93.80652,-1.80652
+Fattoria La Lecciaia Brunello di Montalcino Riserva,2012,brunello,39.99,93,93.68301,-0.68301
+Camigliano Brunello di Montalcino,2014,brunello,49.99,91,93.77802,-2.77802
